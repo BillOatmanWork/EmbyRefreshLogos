@@ -29,13 +29,14 @@ namespace EmbyRefreshLogos
 
             if (args.Length < 2)
             {
-                ConsoleWithLog("EmbyRefreshLogos m3uPath API_KEY {server} {port}");
+                ConsoleWithLog("EmbyRefreshLogos filePath API_KEY [server] [port]");
+                ConsoleWithLog("File extenstion can be .m3u, .xml, or .xmltv");
                 ConsoleWithLog("To get Emby api key go to dashboard>advanced>security and generate one");
                 return;
             }
 
             int count = 0;
-            string m3u = args[0];
+            string fileName = args[0];
             string host = "localhost";
             string port = "8096";
             string key = args[1];
@@ -51,29 +52,52 @@ namespace EmbyRefreshLogos
             }
             else if (args.Length != 2)
             {
-                ConsoleWithLog("EmbyRefreshLogos m3uPath API_KEY {server} {port}");
+                ConsoleWithLog("EmbyRefreshLogos filePath API_KEY [server] [port]");
+                ConsoleWithLog("File extenstion can be .m3u, .xml, or .xmltv");
                 ConsoleWithLog("To get Emby api key go to dashboard>advanced>security and generate one");
                 return;
             }
 
-            ConsoleWithLog($"Reading m3u file {m3u}.");
+            ConsoleWithLog($"Reading file {fileName}.");
 
-            if (!File.Exists(m3u))
+            if (!File.Exists(fileName))
             {
-                ConsoleWithLog($"Specified m3u file {m3u} not found.");
-                ConsoleWithLog("EmbyRefreshLogos m3uPath API_KEY {server} {port}");
+                ConsoleWithLog($"Specified file {fileName} not found.");
+                ConsoleWithLog("EmbyRefreshLogos filePath API_KEY [server] [port]");
+                ConsoleWithLog("File extenstion can be .m3u, .xml, or .xmltv"); ;
                 ConsoleWithLog("To get Emby api key go to dashboard>advanced>security and generate one");
                 return;
             }
 
-            try
+            if(fileName.EndsWith(".m3u"))
             {
-                ReadM3u(m3u);
+                try
+                {
+                    ReadM3u(fileName);
+                }
+                catch (Exception ex)
+                {
+                    ConsoleWithLog($"Problem trying to read the m3u file {fileName}.");
+                    ConsoleWithLog($"Exception: {ex.Message}");
+                    return;
+                }
             }
-            catch (Exception ex)
+            else if (fileName.EndsWith(".xml") || fileName.EndsWith(".xmltv"))
             {
-                ConsoleWithLog($"Problem trying to read the m3u file {m3u}.");
-                ConsoleWithLog($"Exception: {ex.Message}");
+                try
+                {
+                    ReadXmlTv(fileName);
+                }
+                catch (Exception ex)
+                {
+                    ConsoleWithLog($"Problem trying to read the XMLTV file {fileName}.");
+                    ConsoleWithLog($"Exception: {ex.Message}");
+                    return;
+                }
+            }
+            else
+            {
+                ConsoleWithLog($"EmbyRefreshLogos Error: File extension {Path.GetExtension(fileName)} not supported.");
                 return;
             }
 
@@ -163,6 +187,10 @@ namespace EmbyRefreshLogos
             }
         }
 
+        /// <summary>
+        /// Read xmltv file and store channel name and logo url in dictionary
+        /// </summary>
+        /// <param name="fileName"></param>
         public void ReadXmlTv(string fileName)
         {
             XmlDocument doc = new XmlDocument();

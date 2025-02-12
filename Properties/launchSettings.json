@@ -2,7 +2,7 @@
   "profiles": {
     "EmbyRefreshLogos": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Stuff\\Repos\\EmbyRefreshLogos\\test\\Emby.m3u 636cfb72a9a24c1b9c69786672b9f0c8 192.168.50.42"
+      "commandLineArgs": "\"E:\\Personal Repos\\EmbyRefreshLogos\\Doc\\PartDeuxSports.xmltv\" 636cfb72a9a24c1b9c69786672b9f0c8 192.168.50.42"
     }
   }
 }
