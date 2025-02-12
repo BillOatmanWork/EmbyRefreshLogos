@@ -1,7 +1,8 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using RestSharp;
 using System.Net;
 using System.Text.RegularExpressions;
+using System.Xml;
 
 
 namespace EmbyRefreshLogos
@@ -158,6 +159,31 @@ namespace EmbyRefreshLogos
                 {
                     ConsoleWithLog("Non-fatal problem trying to read the m3u file. ");
                     ConsoleWithLog($"Exception: {ex.Message}  Channel: {channelName}  LogoURL: {logoUrl}");
+                }
+            }
+        }
+
+        public void ReadXmlTv(string fileName)
+        {
+            XmlDocument doc = new XmlDocument();
+            doc.Load(fileName);
+
+            XmlNodeList channels = doc.SelectNodes("//channel");
+
+            foreach (XmlNode channel in channels)
+            {
+                string channelId = channel.Attributes["id"].Value;
+                string channelName = channel.SelectSingleNode("display-name").InnerText;
+                string logoUrl = channel.SelectSingleNode("icon")?.Attributes["src"]?.Value;
+
+                try
+                {
+                    channelData.Add(channelName, logoUrl);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Non-fatal problem trying to read the XMLTV file.");
+                    Console.WriteLine($"Exception: {ex.Message}  Channel: {channelName}  LogoURL: {logoUrl}");
                 }
             }
         }
