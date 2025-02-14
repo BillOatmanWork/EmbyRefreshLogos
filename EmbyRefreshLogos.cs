@@ -135,7 +135,7 @@ namespace EmbyRefreshLogos
                     foreach (Item item in channelsData.Items)
                     {
                         ConsoleWithLog($"Processing {item.Name} ...");
-                        ProcessChannelData(item, restClient);
+                        ProcessChannelData(item, restClient, false);
                     }
 
                     if (retryItems.Count == 0)
@@ -155,7 +155,7 @@ namespace EmbyRefreshLogos
                         foreach (Item item in retryItems)
                         {
                             ConsoleWithLog($"ReProcessing {item.Name} ...");
-                            ProcessChannelData(item, restClient);
+                            ProcessChannelData(item, restClient, true);
                         }
                     }
                 }
@@ -168,7 +168,7 @@ namespace EmbyRefreshLogos
             ConsoleWithLog($"EmbyRefreshLogos Complete. Number of logos set: {logoCountount}.");
         }
 
-        private void ProcessChannelData(Item item, RestClient restClient)
+        private void ProcessChannelData(Item item, RestClient restClient, bool retry)
         {
             if (item.Id is null || item.Name is null)
                 return;
@@ -187,11 +187,16 @@ namespace EmbyRefreshLogos
                 else
                     logoCountount++;
             }
-
             else
             {
-                ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} in the first pass.");
-                retryItems.Add(item);
+                if (retry)
+                    ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} in the second pass.");
+                else
+                {
+
+                    ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} in the first pass.");
+                    retryItems.Add(item);
+                }
             }
         }
 
