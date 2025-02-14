@@ -1,5 +1,6 @@
 using Newtonsoft.Json;
 using RestSharp;
+using System.Globalization;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Xml;
@@ -11,8 +12,12 @@ namespace EmbyRefreshLogos
     {
         private const string format = "http://{0}:{1}/emby/LiveTv/Manage/Channels&api_key={2}";
         private string agent = "EmbyRefreshLogos";
+        private int logoCountount;
+        private string? apiKey;
 
         private Dictionary<string, string> channelData = new Dictionary<string, string>();
+
+        private List<Item> retryItems = [];
 
         static void Main(string[] args)
         {
@@ -35,11 +40,10 @@ namespace EmbyRefreshLogos
                 return;
             }
 
-            int count = 0;
             string fileName = args[0];
             string host = "localhost";
             string port = "8096";
-            string key = args[1];
+            apiKey = args[1];
 
             if (args.Length == 3)
             {
@@ -101,15 +105,15 @@ namespace EmbyRefreshLogos
                 return;
             }
 
-            string uriName = string.Format(format, host, port, key);
+            string uriName = string.Format(CultureInfo.InvariantCulture, format, host, port, apiKey);
 
             try
             {
                 var restClient = new RestClient($"http://{host}:{port}");
-                RestRequest restRequest = new RestRequest($"emby/LiveTv/Manage/Channels?api_key={key}", Method.Get);
+                RestRequest restRequest = new RestRequest($"emby/LiveTv/Manage/Channels?api_key={apiKey}", Method.Get);
                 restRequest.AddHeader("user-agent", agent);
                 var restResponse = restClient.Execute(restRequest);
-                if (restResponse.StatusCode != HttpStatusCode.OK)
+                if (restResponse.StatusCode != HttpStatusCode.OK || restResponse.Content is null)
                 {
                     ConsoleWithLog($"EmbyRefreshLogos Error Getting Emby Channels: {restResponse.StatusCode}  {restResponse.StatusDescription}");
                 }
@@ -117,7 +121,7 @@ namespace EmbyRefreshLogos
                 {
                     Root? channelsData = JsonConvert.DeserializeObject<Root>(restResponse.Content);
 
-                    if (channelsData == null)
+                    if (channelsData == null || channelsData.Items is null)
                     {
                         ConsoleWithLog("EmbyRefreshLogos Error: No channels found.");
                         return;
@@ -131,23 +135,27 @@ namespace EmbyRefreshLogos
                     foreach (Item item in channelsData.Items)
                     {
                         ConsoleWithLog($"Processing {item.Name} ...");
-                        string id = item.Id;
-                        bool found = channelData.TryGetValue(item.Name, out string? logoUrl);
+                        ProcessChannelData(item, restClient);
+                    }
 
-                        if (found && !string.IsNullOrEmpty(logoUrl))
-                        {
-                            RestRequest restRequest2 = new RestRequest($"emby/Items/{id}/Images/Primary/0/Url?Url={logoUrl}&api_key={key}", Method.Post);
-                            restRequest2.AddHeader("user-agent", agent);
-                            var restResponse2 = restClient.Execute(restRequest2);
+                    if (retryItems.Count == 0)
+                    {
+                        ConsoleWithLog("Processing channels that were not found in the first pass ...");
+                        channelData.Clear();
 
-                            if (!restResponse2.IsSuccessful)
-                                ConsoleWithLog($"Failed to set logo for {item.Name}. Reason: {restResponse2.ErrorException.Message}");
-                            else
-                                count++;
-                        } 
-                        else 
+                        if (fileName.EndsWith(".m3u"))
                         {
-                            ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name}.");
+                            ReadXmlTv(Path.ChangeExtension(fileName, ".xmltv"));
+                        }
+                        else
+                        { 
+                            ReadM3u(Path.ChangeExtension(fileName, ".m3u"));
+                        }
+
+                        foreach (Item item in retryItems)
+                        {
+                            ConsoleWithLog($"ReProcessing {item.Name} ...");
+                            ProcessChannelData(item, restClient);
                         }
                     }
                 }
@@ -157,7 +165,34 @@ namespace EmbyRefreshLogos
                 ConsoleWithLog($"EmbyRefreshLogos Exception: {ex.Message}.");
             }
 
-            ConsoleWithLog($"EmbyRefreshLogos Complete. Number of logos set: {count}.");
+            ConsoleWithLog($"EmbyRefreshLogos Complete. Number of logos set: {logoCountount}.");
+        }
+
+        private void ProcessChannelData(Item item, RestClient restClient)
+        {
+            if (item.Id is null || item.Name is null)
+                return;
+
+            string id = item.Id;
+            bool found = channelData.TryGetValue(item.Name, out string? logoUrl);
+
+            if (found && !string.IsNullOrEmpty(logoUrl))
+            {
+                RestRequest restRequest2 = new RestRequest($"emby/Items/{id}/Images/Primary/0/Url?Url={logoUrl}&api_key={apiKey}", Method.Post);
+                restRequest2.AddHeader("user-agent", agent);
+                var restResponse2 = restClient.Execute(restRequest2);
+
+                if (!restResponse2.IsSuccessful)
+                    ConsoleWithLog($"Failed to set logo for {item.Name}. Reason: {restResponse2.ErrorException?.Message ?? "Unknown error"}");
+                else
+                    logoCountount++;
+            }
+
+            else
+            {
+                ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} in the first pass.");
+                retryItems.Add(item);
+            }
         }
 
         /// <summary>
@@ -196,13 +231,38 @@ namespace EmbyRefreshLogos
             XmlDocument doc = new XmlDocument();
             doc.Load(fileName);
 
-            XmlNodeList channels = doc.SelectNodes("//channel");
+            if(doc is null)
+            {
+                ConsoleWithLog($"EmbyRefreshLogos Error: Could not load XMLTV file {fileName}.");
+                return;
+            }
+
+            XmlNodeList? channels = doc.SelectNodes("//channel");
+
+            if(channels is null)
+            {
+                ConsoleWithLog($"EmbyRefreshLogos Error: Could not find channels in XMLTV file {fileName}.");
+                return;
+            }
 
             foreach (XmlNode channel in channels)
             {
-                string channelId = channel.Attributes["id"].Value;
-                string channelName = channel.SelectSingleNode("display-name").InnerText;
-                string logoUrl = channel.SelectSingleNode("icon")?.Attributes["src"]?.Value;
+                string? channelName = channel.SelectSingleNode("display-name")?.InnerText;
+                if (channelName is null)
+                {
+                    ConsoleWithLog($"EmbyRefreshLogos Error: Channel name is null in XMLTV file {fileName}.");
+                    continue;
+                }
+
+                // string channelId = channel.Attributes["id"].Value;
+
+                string? logoUrl = channel.SelectSingleNode("icon")?.Attributes?["src"]?.Value;
+
+                if(logoUrl is null)
+                {
+                    ConsoleWithLog($"EmbyRefreshLogos Error: Logo URL is null for channel {channelName} in XMLTV file {fileName}.");
+                    continue;
+                }
 
                 try
                 {
