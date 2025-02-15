@@ -5,7 +5,6 @@ using System.Net;
 using System.Text.RegularExpressions;
 using System.Xml;
 
-
 namespace EmbyRefreshLogos
 {
     public class EmbyRefreshLogos
@@ -35,7 +34,7 @@ namespace EmbyRefreshLogos
             if (args.Length < 2)
             {
                 ConsoleWithLog("EmbyRefreshLogos filePath API_KEY [server] [port]");
-                ConsoleWithLog("File extenstion can be .m3u, .xml, or .xmltv");
+                ConsoleWithLog("File extention can be .m3u, .xml, or .xmltv");
                 ConsoleWithLog("To get Emby api key go to dashboard>advanced>security and generate one");
                 return;
             }
@@ -57,7 +56,7 @@ namespace EmbyRefreshLogos
             else if (args.Length != 2)
             {
                 ConsoleWithLog("EmbyRefreshLogos filePath API_KEY [server] [port]");
-                ConsoleWithLog("File extenstion can be .m3u, .xml, or .xmltv");
+                ConsoleWithLog("File extention can be .m3u, .xml, or .xmltv");
                 ConsoleWithLog("To get Emby api key go to dashboard>advanced>security and generate one");
                 return;
             }
@@ -68,7 +67,7 @@ namespace EmbyRefreshLogos
             {
                 ConsoleWithLog($"Specified file {fileName} not found.");
                 ConsoleWithLog("EmbyRefreshLogos filePath API_KEY [server] [port]");
-                ConsoleWithLog("File extenstion can be .m3u, .xml, or .xmltv"); ;
+                ConsoleWithLog("File extention can be .m3u, .xml, or .xmltv"); ;
                 ConsoleWithLog("To get Emby api key go to dashboard>advanced>security and generate one");
                 return;
             }
