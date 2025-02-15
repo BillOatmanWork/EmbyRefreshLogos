@@ -1,0 +1,533 @@
+#EXTM3U
+#EXTINF:-1 CUID="beed9296-9680-3136-bd57-959b6c2b9499" tvg-chno="1" tvg-id="PPV01.pds.us" tvg-name="PPV 01" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 01
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9034
+#EXTINF:-1 CUID="c5ed267d-9d7e-3902-b53e-c9276c1260d2" tvg-chno="2" tvg-id="PPV02.pds.us" tvg-name="PPV 02" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 02
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9035
+#EXTINF:-1 CUID="058e7ede-6345-31a4-ab47-9dbf4a164fa2" tvg-chno="3" tvg-id="PPV03.pds.us" tvg-name="PPV 03" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 03
+http://DummyLink.ppv03.tv
+#EXTINF:-1 CUID="c99351fe-993a-38ec-83df-f798e0914184" tvg-chno="4" tvg-id="PPV04.pds.us" tvg-name="PPV 04" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 04
+http://DummyLink.ppv04.tv
+#EXTINF:-1 CUID="2ebc8f58-7e5c-3130-91b5-745120fb3c09" tvg-chno="5" tvg-id="PPV05.pds.us" tvg-name="PPV 05" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 05
+http://DummyLink.ppv05.tv
+#EXTINF:-1 CUID="7e9a1ecc-24ce-3fba-aad8-c44d81f7d715" tvg-chno="6" tvg-id="PPV06.pds.us" tvg-name="PPV 06" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 06
+http://DummyLink.ppv06.tv
+#EXTINF:-1 CUID="c3476dd8-a043-3fc4-880b-deb9b8943210" tvg-chno="7" tvg-id="PPV07.pds.us" tvg-name="PPV 07" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 07
+http://DummyLink.ppv07.tv
+#EXTINF:-1 CUID="90561de4-6d75-303a-99ed-e07ec518c335" tvg-chno="8" tvg-id="PPV08.pds.us" tvg-name="PPV 08" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 08
+http://DummyLink.ppv08.tv
+#EXTINF:-1 CUID="671d46df-588f-307f-9c76-2fd600f1b763" tvg-chno="9" tvg-id="PPV09.pds.us" tvg-name="PPV 09" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 09
+http://DummyLink.ppv09.tv
+#EXTINF:-1 CUID="8f8ad6ce-6256-39bf-9f1c-0a13c36a2073" tvg-chno="10" tvg-id="PPV10.pds.us" tvg-name="PPV 10" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PPVEvent.png" group-title="PDSportsPPV",PPV 10
+http://DummyLink.ppv10.tv
+#EXTINF:-1 CUID="eaf2e3b4-39ee-3310-8f94-73024ed1f6f6" tvg-chno="11" tvg-id="UFCDirect01.pds.us" tvg-name="UFCDirect 01" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC1.UFC.png" group-title="PDSportsUFCDirect",UFCDirect 01
+http://DummyLink.UFCDirect01.tv
+#EXTINF:-1 CUID="5679c5fd-0ab8-3e29-9c5d-4e5e2bd69e4e" tvg-chno="12" tvg-id="UFCDirect02.pds.us" tvg-name="UFCDirect 02" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC1.UFC.png" group-title="PDSportsUFCDirect",UFCDirect 02
+http://DummyLink.UFCDirect02.tv
+#EXTINF:-1 CUID="e9e38bef-f1e7-37b6-8cc8-669f146159c1" tvg-chno="13" tvg-id="UFCDirect03.pds.us" tvg-name="UFCDirect 03" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC1.UFC.png" group-title="PDSportsUFCDirect",UFCDirect 03
+http://DummyLink.UFCDirect03.tv
+#EXTINF:-1 CUID="729ff604-f05d-397e-906d-84ef46af3bf1" tvg-chno="14" tvg-id="UFCDirect04.pds.us" tvg-name="UFCDirect 04" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC1.UFC.png" group-title="PDSportsUFCDirect",UFCDirect 04
+http://DummyLink.UFCDirect04.tv
+#EXTINF:-1 CUID="f504b8ef-ce3f-3b99-b3c8-4dbc148c9f0d" tvg-chno="15" tvg-id="UFCDirect05.pds.us" tvg-name="UFCDirect 05" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC1.UFC.png" group-title="PDSportsUFCDirect",UFCDirect 05
+http://DummyLink.UFCDirect05.tv
+#EXTINF:-1 CUID="b4203622-11d5-39d0-831d-0ab7e5f53cc3" tvg-chno="16" tvg-id="CBSWROC.us" tvg-name="8 WROC CBS Rochester" tvg-logo="https://iptvboss.xyz/logos/USA/CBSWROC.us.png" group-title="HdHomerun",8 WROC CBS Rochester
+http://192.168.50.143:5004/auto/v8.1
+#EXTINF:-1 CUID="a0d1d15d-2b87-318a-9315-ac4d3fba855a" tvg-chno="17" tvg-id="PBSWXXI.us" tvg-name="21.1 WXXI PBS Rochester" tvg-logo="http://iptvboss.xyz/logos/USA/PBSWXXI.us.png" group-title="HdHomerun",21.1 WXXI PBS Rochester
+http://192.168.50.143:5004/auto/v21.1
+#EXTINF:-1 CUID="627c99f9-627d-3feb-8c4c-6d2548e02517" tvg-chno="18" tvg-id="WorldWXXIDT2.us" tvg-name="21.2 WXXI World Rochester" tvg-logo="http://iptvboss.xyz/logos/USA/PBSWXXI.us.png" group-title="HdHomerun",21.2 WXXI World Rochester
+http://192.168.50.143:5004/auto/v21.2
+#EXTINF:-1 CUID="a231f6a1-ba8f-3e16-b16e-059460d1e849" tvg-chno="19" tvg-id="CreateWXXIDT3.us" tvg-name="21.3 WXXI Create Rochester" tvg-logo="http://iptvboss.xyz/logos/USA/PBSWXXI.us.png" group-title="HdHomerun",21.3 WXXI Create Rochester
+http://192.168.50.143:5004/auto/v21.3
+#EXTINF:-1 CUID="bfb4ed31-b5db-351c-978b-4160a2e47863" tvg-chno="20" tvg-id="FOXWUHF.us" tvg-name="31 WUHF FOX Rochester" tvg-logo="http://iptvboss.xyz/logos/USA/FOXWUHF.us.png" group-title="HdHomerun",31 WUHF FOX Rochester
+http://192.168.50.143:5004/auto/v31.1
+#EXTINF:-1 CUID="79a144cc-94b4-33d8-8616-a6f8de002bfa" tvg-chno="21" tvg-id="CBSWNCN.us" tvg-name="NC Goldsboro CBS 17 (WNCN)" tvg-logo="https://iptvboss.xyz/logos/USA/CBSWNCN.us.png" group-title="LOCAL CHANNELS - USA",NC Goldsboro CBS 17 (WNCN)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/10165.ts
+#EXTINF:-1 CUID="23aa3991-09ec-337f-811c-3ba0e055c1ad" tvg-chno="22" tvg-id="CBSWFMY.us" tvg-name="NC Greensboro CBS 2 (WFMY)" tvg-logo="https://iptvboss.xyz/logos/USA/CBSWFMY.us.png" group-title="LOCAL CHANNELS - USA",NC Greensboro CBS 2 (WFMY)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2151.ts
+#EXTINF:-1 CUID="b46d4d46-a520-399f-9b1c-5073b31b0b6f" tvg-chno="23" tvg-id="CWWCWG.us" tvg-name="NC Greensboro CW 20 (WCWG)" tvg-logo="https://iptvboss.xyz/logos/USA/CWWCWG.us.png" group-title="LOCAL CHANNELS - USA",NC Greensboro CW 20 (WCWG)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8924.ts
+#EXTINF:-1 CUID="cbc20147-f5d9-3b94-9c4b-bb07eb3f2871" tvg-chno="24" tvg-id="FOXWGHP.us1" tvg-name="NC Greensboro FOX 8 (WGHP)" tvg-logo="https://iptvboss.xyz/logos/USA/FOXWGHP.us.png" group-title="LOCAL CHANNELS - USA",NC Greensboro FOX 8 (WGHP)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8455.ts
+#EXTINF:-1 CUID="eb4b5d87-a0ea-3279-aeea-df17dc23ae7b" tvg-chno="25" tvg-id="MYWMYV.us" tvg-name="NC Greensboro MY 48 (WMYV)" tvg-logo="https://iptvboss.xyz/logos/USA/MYWMYV.us.png" group-title="LOCAL CHANNELS - USA",NC Greensboro MY 48 (WMYV)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8925.ts
+#EXTINF:-1 CUID="08c02372-61eb-305d-afc9-5a806b363639" tvg-chno="26" tvg-id="NBCWXII.us" tvg-name="NC Greensboro NBC 12 (WXII)" tvg-logo="https://iptvboss.xyz/logos/USA/NBCWXII.us.png" group-title="LOCAL CHANNELS - USA",NC Greensboro NBC 12 (WXII)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2152.ts
+#EXTINF:-1 CUID="877f5f3e-7799-3bbb-8a4e-6fd37c0157ee" tvg-chno="27" tvg-id="MyNetWRDC.us" tvg-name="NC Raleigh My TV 28 (WRDC)" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MyNetWRDC.us.png" group-title="LOCAL CHANNELS - USA",NC Raleigh My TV 28 (WRDC)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/12940.ts
+#EXTINF:-1 CUID="2919c42a-1c24-36cc-8c62-5ffdc26be4e2" tvg-chno="28" tvg-id="ABCWKBW.us" tvg-name="NY Buffalo ABC 7 (WKBW)" tvg-logo="https://iptvboss.xyz/logos/USA/ABCWKBW.us.png" group-title="LOCAL CHANNELS - USA",NY Buffalo ABC 7 (WKBW)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8904.ts
+#EXTINF:-1 CUID="ab54563e-d17f-33cf-a4c1-ee4adf682f32" tvg-chno="29" tvg-id="CBSWIVB.us" tvg-name="NY Buffalo CBS 4 (WIVB)" tvg-logo="https://iptvboss.xyz/logos/USA/CBSWIVB.us.png" group-title="LOCAL CHANNELS - USA",NY Buffalo CBS 4 (WIVB)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2256.ts
+#EXTINF:-1 CUID="845ad527-f46e-39e9-97dd-0e48e4ebb72b" tvg-chno="30" tvg-id="FOXWUTV.us" tvg-name="NY Buffalo FOX 29 (WUTV)" tvg-logo="https://iptvboss.xyz/logos/USA/FOXWUTV.us.png" group-title="LOCAL CHANNELS - USA",NY Buffalo FOX 29 (WUTV)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2254.ts
+#EXTINF:-1 CUID="e4dd0a07-5ca1-3887-ada9-682d3498575e" tvg-chno="31" tvg-id="NBCWGRZ.us" tvg-name="NY Buffalo NBC 2 (WGRZ)" tvg-logo="https://iptvboss.xyz/logos/USA/NBCWGRZ.us.png" group-title="LOCAL CHANNELS - USA",NY Buffalo NBC 2 (WGRZ)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2255.ts
+#EXTINF:-1 CUID="42bc3eac-38b2-3f5d-9cd4-dd4eda7913b2" tvg-chno="32" tvg-id="ABCWHAM.us" tvg-name="NY Rochester ABC 13 (WHAM)" tvg-logo="https://iptvboss.xyz/logos/USA/ABCWHAM.us.png" group-title="LOCAL CHANNELS - USA",NY Rochester ABC 13 (WHAM)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8614.ts
+#EXTINF:-1 CUID="999324a0-be03-36e3-b1bc-d8e5cc44f1bd" tvg-chno="33" tvg-id="CBSWROC.us2" tvg-name="NY Rochester CBS 8 (WROC)" tvg-logo="https://iptvboss.xyz/logos/USA/CBSWROC.us.png" group-title="LOCAL CHANNELS - USA",NY Rochester CBS 8 (WROC)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8612.ts
+#EXTINF:-1 CUID="6aa29291-0691-32ec-8bd9-3d574c74eb75" tvg-chno="34" tvg-id="FOXWUHF.us2" tvg-name="NY Rochester FOX 31 (WUHF)" tvg-logo="https://iptvboss.xyz/logos/USA/FOXWUHF.us.png" group-title="LOCAL CHANNELS - USA",NY Rochester FOX 31 (WUHF)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2291.ts
+#EXTINF:-1 CUID="327ac00a-9a37-3f62-a466-32440ef45469" tvg-chno="35" tvg-id="NBCWHEC.us" tvg-name="NY Rochester NBC 10 (WHEC)" tvg-logo="https://iptvboss.xyz/logos/USA/NBCWHEC.us.png" group-title="LOCAL CHANNELS - USA",NY Rochester NBC 10 (WHEC)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8613.ts
+#EXTINF:-1 CUID="babd5a3e-88b7-376b-9e34-684eb55a614a" tvg-chno="36" tvg-id="ABCWSYR.us" tvg-name="NY Syracuse ABC (WSYR)" tvg-logo="https://iptvboss.xyz/logos/USA/ABCWSYR.us.png" group-title="LOCAL CHANNELS - USA",NY Syracuse ABC (WSYR)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/9149.ts
+#EXTINF:-1 CUID="826b04cf-8253-3f44-8424-58a4f5e86578" tvg-chno="37" tvg-id="CBSWTVH.us" tvg-name="NY Syracuse CBS 5 (WTVH)" tvg-logo="https://iptvboss.xyz/logos/USA/CBSWTVH.us.png" group-title="LOCAL CHANNELS - USA",NY Syracuse CBS 5 (WTVH)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/9150.ts
+#EXTINF:-1 CUID="986f50e2-8bdc-35c1-8467-8d5e3a7c293c" tvg-chno="38" tvg-id="FOXWSYT.us" tvg-name="NY Syracuse FOX 68 (WSYT)" tvg-logo="https://iptvboss.xyz/logos/USA/FOXWSYT.us.png" group-title="LOCAL CHANNELS - USA",NY Syracuse FOX 68 (WSYT)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/9151.ts
+#EXTINF:-1 CUID="a5495e8c-5fc7-3b0d-9e6b-527dc03ac0cf" tvg-chno="39" tvg-id="NBCWSTM.us" tvg-name="NY Syracuse NBC 3 (WSTM)" tvg-logo="https://iptvboss.xyz/logos/USA/NBCWSTM.us.png" group-title="LOCAL CHANNELS - USA",NY Syracuse NBC 3 (WSTM)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/9152.ts
+#EXTINF:-1 CUID="0ff5ed41-6cab-3542-ba4f-b651749a1f7b" tvg-chno="40" tvg-id="Gusto.us1" tvg-name="Gusto TV" tvg-logo="http://cfsystems.io:80/images/2a59afd4213e7fb881629b5767ba6dda.png" group-title="NETWORK TV - USA",Gusto TV
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4908
+#EXTINF:-1 CUID="3d23dee8-1fe2-37d9-bce4-325b1a7e46e2" tvg-chno="41" tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://iptvboss.xyz/logos/USA/Tastemade.us.png" group-title="NETWORK TV - USA",Tastemade
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2540.ts
+#EXTINF:-1 CUID="b9b03624-75fc-31f4-93d1-ac5e185cdc0b" tvg-chno="42" tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MOTORTREND.us.png" group-title="NETWORK TV - USA",MotorTrend
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/2025
+#EXTINF:-1 CUID="5df71016-aa74-3d44-8d1e-497dce7f100f" tvg-chno="43" tvg-id="NationalGeographic.us" tvg-name="Nat Geo" tvg-logo="https://iptvboss.xyz/logos/USA/NationalGeographic.us.png" group-title="NETWORK TV - USA",Nat Geo
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2094.ts
+#EXTINF:-1 CUID="16c95928-9e94-3a20-b4b9-8d7254db6873" tvg-chno="44" tvg-id="Vice.us" tvg-name="VICELAND" tvg-logo="https://iptvboss.xyz/logos/USA/Vice.us.png" group-title="NETWORK TV - USA",VICELAND
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/5044.ts
+#EXTINF:-1 CUID="e0fd8d22-8a92-3b62-9e18-6c850de2a6b5" tvg-chno="45" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/discovery-channel-us.png" group-title="NETWORK TV - USA",Discovery Channel
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/13057.ts
+#EXTINF:-1 CUID="51848d53-1a7f-375b-90ab-65827520fc22" tvg-chno="46" tvg-id="SkyComedy.uk1" tvg-name="Sky Comedy" tvg-logo="https://iptvboss.xyz/logos/UK/SkyComedy.uk.png" group-title="NETWORK TV - UK",Sky Comedy
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4679.ts
+#EXTINF:-1 CUID="7d2904a7-db06-3ae4-873a-82b8b9ae9f06" tvg-chno="47" tvg-id="SkyDocumentaries.uk1" tvg-name="Sky Documentaries" tvg-logo="https://iptvboss.xyz/logos/UK/SkyDocumentaries.uk.png" group-title="NETWORK TV - UK",Sky Documentaries
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4683.ts
+#EXTINF:-1 CUID="f761e43a-b51e-3c10-badd-0e939a4ee77a" tvg-chno="48" tvg-id="PDSportsNFLRedZone.pds.us" tvg-name="NFL RedZone 1" tvg-logo="https://cdn.iptvboss.pro/logos/USA/RedZoneLogo.png" group-title="PDSportsNFLRedZone",NFL RedZone 1
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/2205
+#EXTINF:-1 CUID="970b48e0-ef51-3176-968d-5ef2a999cf23" tvg-chno="49" tvg-id="PDSportsNFLRedZone.pds.us2" tvg-name="NFL RedZone 2" tvg-logo="https://cdn.iptvboss.pro/logos/USA/RedZoneLogo.png" group-title="PDSportsNFLRedZone",NFL RedZone 2
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8796
+#EXTINF:-1 CUID="62a0634a-f10a-3bd3-9d59-5c41059b39e9" tvg-chno="50" tvg-id="PDSportsNFLRedZone.pds.us3" tvg-name="NFL RedZone 3" tvg-logo="https://cdn.iptvboss.pro/logos/USA/RedZoneLogo.png" group-title="PDSportsNFLRedZone",NFL RedZone 3
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8797
+#EXTINF:-1 CUID="ca91c61f-f875-310d-aa8f-9f5658cef747" tvg-chno="51" tvg-id="PDSportsNFLRedZone.pds.us4" tvg-name="NFL RedZone 4" tvg-logo="https://cdn.iptvboss.pro/logos/USA/RedZoneLogo.png" group-title="PDSportsNFLRedZone",NFL RedZone 4
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8798
+#EXTINF:-1 CUID="2e9eee19-4860-300e-b877-b23a42eba2df" tvg-chno="52" tvg-id="PDSportsNFLRedZone.pds.us5" tvg-name="NFL RedZone 5" tvg-logo="https://cdn.iptvboss.pro/logos/USA/RedZoneLogo.png" group-title="PDSportsNFLRedZone",NFL RedZone 5
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8799
+#EXTINF:-1 CUID="3bf7670b-d2e6-37df-a21b-4712798f973e" tvg-chno="53" tvg-id="NFLBuffaloBills.pds.us" tvg-name="Buffalo Bills" tvg-logo="https://iptvboss.xyz/logos/USA/BuffaloBills.nfl.png" group-title="PDSportsNFLTeams",Buffalo Bills
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4359
+#EXTINF:-1 CUID="05bca38d-7fc7-377e-a3b4-c052341c0ba0" tvg-chno="54" tvg-id="NFLCarolinaPanthers.pds.us" tvg-name="Carolina Panthers" tvg-logo="https://iptvboss.xyz/logos/USA/CarolinaPanthers.nfl.png" group-title="PDSportsNFLTeams",Carolina Panthers
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8490
+#EXTINF:-1 CUID="005124f7-8f6d-37dc-9b3f-b899c4c4bd01" tvg-chno="55" tvg-id="NFLClevelandBrowns.pds.us" tvg-name="Cleveland Browns" tvg-logo="https://iptvboss.xyz/logos/USA/ClevelandBrowns.nfl.png" group-title="PDSportsNFLTeams",Cleveland Browns
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8475
+#EXTINF:-1 CUID="cc5015ca-3405-3370-b6af-4429073b3309" tvg-chno="56" tvg-id="NFLKansasCityChiefs.pds.us" tvg-name="Kansas City Chiefs" tvg-logo="https://iptvboss.xyz/logos/USA/KansasCityChiefs.nfl.png" group-title="PDSportsNFLTeams",Kansas City Chiefs
+http://DummyLink.NFLTeamsKansasCityChiefs.tv
+#EXTINF:-1 CUID="6ec7dce1-39ea-36d8-8c18-3a7e76070ad0" tvg-chno="57" tvg-id="NFLLasVegasRaiders.pds.us" tvg-name="Las Vegas Raiders" tvg-logo="https://iptvboss.xyz/logos/USA/LasVegasRaiders.nfl.png" group-title="PDSportsNFLTeams",Las Vegas Raiders
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8492
+#EXTINF:-1 CUID="dce0abd4-9dbe-3102-8b37-e268499bd811" tvg-chno="58" tvg-id="NFLMiamiDolphins.pds.us" tvg-name="Miami Dolphins" tvg-logo="https://iptvboss.xyz/logos/USA/MiamiDolphins.nfl.png" group-title="PDSportsNFLTeams",Miami Dolphins
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4361
+#EXTINF:-1 CUID="46547581-0f84-3726-9e4d-bc2990369c93" tvg-chno="59" tvg-id="NFLNewEnglandPatriots.pds.us" tvg-name="New England Patriots" tvg-logo="https://iptvboss.xyz/logos/USA/NewEnglandPatriots.nfl.png" group-title="PDSportsNFLTeams",New England Patriots
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8491
+#EXTINF:-1 CUID="9e6f787e-4533-3482-8b20-bfb077eacdfd" tvg-chno="60" tvg-id="NFLNewYorkJets.pds.us" tvg-name="New York Jets" tvg-logo="https://iptvboss.xyz/logos/USA/NewYorkJets.nfl.png" group-title="PDSportsNFLTeams",New York Jets
+http://DummyLink.NFLTeamsNewYorkJets.tv
+#EXTINF:-1 CUID="e8665405-6239-3597-ab5c-50051e7d3929" tvg-chno="61" tvg-id="NFL01.pds.us" tvg-name="NFL 01" tvg-logo="http://192.168.50.42:1180/logos/PDS_Falcons-Giants.png" group-title="PDSportsNFLGames",NFL 01
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4352
+#EXTINF:-1 CUID="18fac8ff-e30e-3697-8ec7-9f8cf5c76693" tvg-chno="62" tvg-id="NFL02.pds.us" tvg-name="NFL 02" tvg-logo="http://192.168.50.42:1180/logos/PDS_Bears-Lions.png" group-title="PDSportsNFLGames",NFL 02
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8800
+#EXTINF:-1 CUID="36ddb8fc-613e-3ccb-a6e3-7afeaa3c746e" tvg-chno="63" tvg-id="NFL03.pds.us" tvg-name="NFL 03" tvg-logo="http://192.168.50.42:1180/logos/PDS_Bengals-Browns.png" group-title="PDSportsNFLGames",NFL 03
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4355
+#EXTINF:-1 CUID="b7b75758-6c3d-3336-97bd-36ce8e3d6edc" tvg-chno="64" tvg-id="NFL04.pds.us" tvg-name="NFL 04" tvg-logo="http://192.168.50.42:1180/logos/PDS_Colts-Titans.png" group-title="PDSportsNFLGames",NFL 04
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4356
+#EXTINF:-1 CUID="369dafdb-7e21-3894-a839-cc38c2de83f0" tvg-chno="65" tvg-id="NFL05.pds.us" tvg-name="NFL 05" tvg-logo="http://192.168.50.42:1180/logos/PDS_Jets-Rams.png" group-title="PDSportsNFLGames",NFL 05
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4354
+#EXTINF:-1 CUID="06a58c1a-c793-3303-b9ca-48d15cf55bf5" tvg-chno="66" tvg-id="NFL06.pds.us" tvg-name="NFL 06" tvg-logo="http://192.168.50.42:1180/logos/PDS_Commanders-Eagles.png" group-title="PDSportsNFLGames",NFL 06
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4357
+#EXTINF:-1 CUID="d0b912a3-7cca-3420-aaf4-019a8d0c5a69" tvg-chno="67" tvg-id="NFL07.pds.us" tvg-name="NFL 07" tvg-logo="http://192.168.50.42:1180/logos/PDS_Panthers-Cardinals.png" group-title="PDSportsNFLGames",NFL 07
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4362
+#EXTINF:-1 CUID="d400129b-a466-3b0e-bc9d-62eef31327ad" tvg-chno="68" tvg-id="NFL08.pds.us" tvg-name="NFL 08" tvg-logo="http://192.168.50.42:1180/logos/PDS_Seahawks-Vikings.png" group-title="PDSportsNFLGames",NFL 08
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4363
+#EXTINF:-1 CUID="230a61ea-5125-36c2-8e80-032714dcc7c4" tvg-chno="69" tvg-id="NFL09.pds.us" tvg-name="NFL 09" tvg-logo="http://192.168.50.42:1180/logos/PDS_Bills-Patriots.png" group-title="PDSportsNFLGames",NFL 09
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4359
+#EXTINF:-1 CUID="50621227-5a4d-309e-b2f3-dc8c75b192fc" tvg-chno="70" tvg-id="NFL10.pds.us" tvg-name="NFL 10" tvg-logo="http://192.168.50.42:1180/logos/PDS_Raiders-Jaguars.png" group-title="PDSportsNFLGames",NFL 10
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4360
+#EXTINF:-1 CUID="ce1a565f-98c6-3000-ac4b-04ac3ccc2dba" tvg-chno="71" tvg-id="NHLBuffaloSabres.pds.us" tvg-name="Buffalo Sabres" tvg-logo="https://cdn.iptvboss.pro/logos/USA/BuffaloSabres.nhl.png" group-title="PDSportsNHLTeams",Buffalo Sabres
+http://DummyLink.NHLTeamsBuffaloSabres.tv
+#EXTINF:-1 CUID="358635ad-e983-30d1-a496-5cfe4db62f2c" tvg-chno="72" tvg-id="NHLCarolinaHurricanes.pds.us" tvg-name="Carolina Hurricanes" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CarolinaHurricanes.nhl.png" group-title="PDSportsNHLTeams",Carolina Hurricanes
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11549
+#EXTINF:-1 CUID="fb888479-3bc3-3bd0-9dd9-c26b3d68ab6e" tvg-chno="73" tvg-id="NHLSt.LouisBlues.pds.us" tvg-name="St. Louis Blues" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StLouisBlues.nhl.png" group-title="PDSportsNHLTeams",St. Louis Blues
+http://DummyLink.NHLTeamsSt.LouisBlues.tv
+#EXTINF:-1 CUID="6bf1d690-80fd-333d-bd57-1b94acebe629" tvg-chno="74" tvg-id="NHLTorontoMapleLeafs.pds.us" tvg-name="Toronto Maple Leafs" tvg-logo="https://cdn.iptvboss.pro/logos/USA/TorontoMapleLeafs.nhl.png" group-title="PDSportsNHLTeams",Toronto Maple Leafs
+http://DummyLink.NHLTeamsTorontoMapleLeafs.tv
+#EXTINF:-1 CUID="28945fb3-b96b-38ca-9289-d23e5aadd659" tvg-chno="75" tvg-id="NHLVegasGoldenKnights.pds.us" tvg-name="Vegas Golden Knights" tvg-logo="https://cdn.iptvboss.pro/logos/USA/VegasGoldenKnights.nhl.png" group-title="PDSportsNHLTeams",Vegas Golden Knights
+http://DummyLink.NHLTeamsVegasGoldenKnights.tv
+#EXTINF:-1 CUID="65b379c1-2072-3951-a783-2ca61103c9da" tvg-chno="76" tvg-id="NHLWashingtonCapitals.pds.us" tvg-name="Washington Capitals" tvg-logo="https://cdn.iptvboss.pro/logos/USA/WashingtonCapitals.nhl.png" group-title="PDSportsNHLTeams",Washington Capitals
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11574
+#EXTINF:-1 CUID="3bf44859-2ed7-3bc4-94fb-c043f4ce1e4d" tvg-chno="77" tvg-id="NHL01.pds.us" tvg-name="NHL 01" tvg-logo="http://192.168.50.42:1180/logos/PDS_Rangers-Hurricanes.png" group-title="PDSportsNHLGames",NHL 01
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9314
+#EXTINF:-1 CUID="7abedac6-5844-37dd-8021-ca363a44c9ad" tvg-chno="78" tvg-id="NHL02.pds.us" tvg-name="NHL 02" tvg-logo="http://192.168.50.42:1180/logos/PDS_Lightning-Panthers.png" group-title="PDSportsNHLGames",NHL 02
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9315
+#EXTINF:-1 CUID="6b86d7ac-8609-3d29-9b59-9da79af4e019" tvg-chno="79" tvg-id="NHL03.pds.us" tvg-name="NHL 03" tvg-logo="http://192.168.50.42:1180/logos/PDS_Capitals-Kings.png" group-title="PDSportsNHLGames",NHL 03
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9316
+#EXTINF:-1 CUID="93c6f8af-c5fb-33aa-a1a3-4b48a33e299d" tvg-chno="80" tvg-id="NHL04.pds.us" tvg-name="NHL 04" tvg-logo="http://192.168.50.42:1180/logos/PDS_Utah-Ducks.png" group-title="PDSportsNHLGames",NHL 04
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9317
+#EXTINF:-1 CUID="26ae8156-1a6f-31f4-9d58-1d49b2e0b765" tvg-chno="81" tvg-id="NHL05.pds.us" tvg-name="NHL 05" tvg-logo="http://192.168.50.42:1180/logos/PDS_Avalanche-Kraken.png" group-title="PDSportsNHLGames",NHL 05
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9318
+#EXTINF:-1 CUID="4afd4744-cf88-3439-bc7a-e53c97c9abd1" tvg-chno="82" tvg-id="NHL06.pds.us" tvg-name="NHL 06" tvg-logo="http://192.168.50.42:1180/logos/PDS_Oilers-Senators.png" group-title="PDSportsNHLGames",NHL 06
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9320
+#EXTINF:-1 CUID="fb45739f-f879-3f0b-a0fe-9234ec8e4051" tvg-chno="83" tvg-id="NHL07.pds.us" tvg-name="NHL 07" tvg-logo="http://192.168.50.42:1180/logos/PDS_Rangers-Hurricanes.png" group-title="PDSportsNHLGames",NHL 07
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9592
+#EXTINF:-1 CUID="e7fcec1d-6b01-376f-96d3-7b64f9a837a5" tvg-chno="84" tvg-id="NHL08.pds.us" tvg-name="NHL 08" tvg-logo="http://192.168.50.42:1180/logos/PDS_Lightning-Panthers.png" group-title="PDSportsNHLGames",NHL 08
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9593
+#EXTINF:-1 CUID="6b9c686d-0a84-375d-9570-e3471d24c714" tvg-chno="85" tvg-id="NHL09.pds.us" tvg-name="NHL 09" tvg-logo="http://192.168.50.42:1180/logos/PDS_Capitals-Kings.png" group-title="PDSportsNHLGames",NHL 09
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9594
+#EXTINF:-1 CUID="5e2703fb-7737-3545-bf34-7ba977790884" tvg-chno="86" tvg-id="NHL10.pds.us" tvg-name="NHL 10" tvg-logo="http://192.168.50.42:1180/logos/PDS_Utah-Ducks.png" group-title="PDSportsNHLGames",NHL 10
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9595
+#EXTINF:-1 CUID="ae9054a6-270c-3e9c-a52d-0542ee0e972e" tvg-chno="87" tvg-id="NHL33.pds.us" tvg-name="NHL 33" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 33
+http://DummyLink.NHLGames33.tv
+#EXTINF:-1 CUID="71c11e91-260b-370c-9580-8345b01921a0" tvg-chno="88" tvg-id="NHL34.pds.us" tvg-name="NHL 34" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 34
+http://DummyLink.NHLGames34.tv
+#EXTINF:-1 CUID="fa70ebb2-35c5-38fa-a305-d4fc287415a1" tvg-chno="89" tvg-id="NHL35.pds.us" tvg-name="NHL 35" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 35
+http://DummyLink.NHLGames35.tv
+#EXTINF:-1 CUID="fe978495-1452-3acf-8519-57305f8bd2ff" tvg-chno="90" tvg-id="NHL36.pds.us" tvg-name="NHL 36" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 36
+http://DummyLink.NHLGames36.tv
+#EXTINF:-1 CUID="afa4c829-80e0-3785-8567-a034120463f6" tvg-chno="91" tvg-id="NHL37.pds.us" tvg-name="NHL 37" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 37
+http://DummyLink.NHLGames37.tv
+#EXTINF:-1 CUID="d266ca4a-f775-337a-8e8d-34a89fe4925b" tvg-chno="92" tvg-id="NHL38.pds.us" tvg-name="NHL 38" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 38
+http://DummyLink.NHLGames38.tv
+#EXTINF:-1 CUID="b5b6aced-b4fe-3fea-afc7-adb9b8daf118" tvg-chno="93" tvg-id="NHL39.pds.us" tvg-name="NHL 39" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 39
+http://DummyLink.NHLGames39.tv
+#EXTINF:-1 CUID="df7cabea-f34f-3a1a-b920-cc98c1d157eb" tvg-chno="94" tvg-id="NHL40.pds.us" tvg-name="NHL 40" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 40
+http://DummyLink.NHLGames40.tv
+#EXTINF:-1 CUID="6195a808-9238-31ac-87d4-70dc0566e93e" tvg-chno="95" tvg-id="NHL41.pds.us" tvg-name="NHL 41" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 41
+http://DummyLink.NHLGames41.tv
+#EXTINF:-1 CUID="222d92c1-8dcc-3059-8859-1da7ca1ba306" tvg-chno="96" tvg-id="NHL42.pds.us" tvg-name="NHL 42" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 42
+http://DummyLink.NHLGames42.tv
+#EXTINF:-1 CUID="ae876c91-15f5-3f2f-9b55-5202c0be6c36" tvg-chno="97" tvg-id="NHL43.pds.us" tvg-name="NHL 43" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 43
+http://DummyLink.NHLGames43.tv
+#EXTINF:-1 CUID="40d8c86e-48b4-3e68-9c65-e480c7c34716" tvg-chno="98" tvg-id="NHL44.pds.us" tvg-name="NHL 44" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 44
+http://DummyLink.NHLGames44.tv
+#EXTINF:-1 CUID="886805b4-5b17-3d67-80cf-ff15116b24f7" tvg-chno="99" tvg-id="NHL45.pds.us" tvg-name="NHL 45" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 45
+http://DummyLink.NHLGames45.tv
+#EXTINF:-1 CUID="b1b522fa-4095-3b69-b7ff-4b8651db825a" tvg-chno="100" tvg-id="NHL46.pds.us" tvg-name="NHL 46" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 46
+http://DummyLink.NHLGames46.tv
+#EXTINF:-1 CUID="a8e9dc29-716d-3f39-bcc9-614e730e224a" tvg-chno="101" tvg-id="NHL47.pds.us" tvg-name="NHL 47" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 47
+http://DummyLink.NHLGames47.tv
+#EXTINF:-1 CUID="c469a912-61d0-3003-bed3-aa35920380c7" tvg-chno="102" tvg-id="NHL48.pds.us" tvg-name="NHL 48" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 48
+http://DummyLink.NHLGames48.tv
+#EXTINF:-1 CUID="314266a5-8ace-34cc-aeb7-776f35bfc2e1" tvg-chno="103" tvg-id="NHL49.pds.us" tvg-name="NHL 49" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 49
+http://DummyLink.NHLGames49.tv
+#EXTINF:-1 CUID="6eb28be1-46af-3d8d-b23d-93146bdf904a" tvg-chno="104" tvg-id="NHL50.pds.us" tvg-name="NHL 50" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NHL.png" group-title="PDSportsNHLGames",NHL 50
+http://DummyLink.NHLGames50.tv
+#EXTINF:-1 CUID="7f438aa8-fdbb-3e7e-b4cd-d6af985744b5" tvg-chno="105" tvg-id="NCAAB001.pds.us" tvg-name="NCAA Mens Basketball 001" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 001
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11582
+#EXTINF:-1 CUID="fa6e0a48-e83a-3df5-b763-6e861bd88589" tvg-chno="106" tvg-id="NCAAB002.pds.us" tvg-name="NCAA Mens Basketball 002" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 002
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11619
+#EXTINF:-1 CUID="38d3460b-3124-3a92-bbf9-554a2c2ebf9a" tvg-chno="107" tvg-id="NCAAB003.pds.us" tvg-name="NCAA Mens Basketball 003" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 003
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11601
+#EXTINF:-1 CUID="a6a27b50-113d-3c84-aee9-0436e9b19541" tvg-chno="108" tvg-id="NCAAB004.pds.us" tvg-name="NCAA Mens Basketball 004" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 004
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11578
+#EXTINF:-1 CUID="ef7c2c0f-0de6-3dba-ad72-3248f5c3b42e" tvg-chno="109" tvg-id="NCAAB005.pds.us" tvg-name="NCAA Mens Basketball 005" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 005
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11580
+#EXTINF:-1 CUID="33ba4cc3-8ec7-37ab-9250-f1e8605e4872" tvg-chno="110" tvg-id="NCAAB006.pds.us" tvg-name="NCAA Mens Basketball 006" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 006
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11586
+#EXTINF:-1 CUID="470f6618-6a10-39d2-9c6a-7d5882596321" tvg-chno="111" tvg-id="NCAAB007.pds.us" tvg-name="NCAA Mens Basketball 007" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 007
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11585
+#EXTINF:-1 CUID="abac004f-cd39-3fc9-ba4d-ecc70a27a3be" tvg-chno="112" tvg-id="NCAAB008.pds.us" tvg-name="NCAA Mens Basketball 008" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 008
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11588
+#EXTINF:-1 CUID="66269be2-0751-344c-bf04-0c808d97685b" tvg-chno="113" tvg-id="NCAAB009.pds.us" tvg-name="NCAA Mens Basketball 009" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 009
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11590
+#EXTINF:-1 CUID="3def6708-fe5d-3762-8f1f-196da2bab088" tvg-chno="114" tvg-id="NCAAB010.pds.us" tvg-name="NCAA Mens Basketball 010" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAB.png" group-title="PDSportsNCAAB",NCAA Mens Basketball 010
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11592
+#EXTINF:-1 CUID="fa6e0a48-e83a-3df5-b763-6e861bd88589" tvg-chno="115" tvg-id="NCAAWB001.pds.us" tvg-name="NCAA Womens Basketball 001" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 001
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11606
+#EXTINF:-1 CUID="38d3460b-3124-3a92-bbf9-554a2c2ebf9a" tvg-chno="116" tvg-id="NCAAWB002.pds.us" tvg-name="NCAA Womens Basketball 002" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 002
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11579
+#EXTINF:-1 CUID="ef7c2c0f-0de6-3dba-ad72-3248f5c3b42e" tvg-chno="117" tvg-id="NCAAWB003.pds.us" tvg-name="NCAA Womens Basketball 003" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 003
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11581
+#EXTINF:-1 CUID="33ba4cc3-8ec7-37ab-9250-f1e8605e4872" tvg-chno="118" tvg-id="NCAAWB004.pds.us" tvg-name="NCAA Womens Basketball 004" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 004
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11589
+#EXTINF:-1 CUID="470f6618-6a10-39d2-9c6a-7d5882596321" tvg-chno="119" tvg-id="NCAAWB005.pds.us" tvg-name="NCAA Womens Basketball 005" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 005
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11584
+#EXTINF:-1 CUID="abac004f-cd39-3fc9-ba4d-ecc70a27a3be" tvg-chno="120" tvg-id="NCAAWB006.pds.us" tvg-name="NCAA Womens Basketball 006" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 006
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11597
+#EXTINF:-1 CUID="3def6708-fe5d-3762-8f1f-196da2bab088" tvg-chno="121" tvg-id="NCAAWB007.pds.us" tvg-name="NCAA Womens Basketball 007" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 007
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11605
+#EXTINF:-1 CUID="cdec7dce-6d3f-307e-9e28-ac21b98fc759" tvg-chno="122" tvg-id="NCAAWB008.pds.us" tvg-name="NCAA Womens Basketball 008" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 008
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11616
+#EXTINF:-1 CUID="a5854aea-2bc6-316a-aee7-203fc2361624" tvg-chno="123" tvg-id="NCAAWB009.pds.us" tvg-name="NCAA Womens Basketball 009" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 009
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11638
+#EXTINF:-1 CUID="79200343-afb1-35df-900a-969603c760fb" tvg-chno="124" tvg-id="NCAAWB010.pds.us" tvg-name="NCAA Womens Basketball 010" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAABWomensLogo.png" group-title="PDSportsNCAAWB",NCAA Womens Basketball 010
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11645
+#EXTINF:-1 CUID="0eaeb37a-30fb-3982-bf88-3a4739916e82" tvg-chno="125" tvg-id="NCAAF001.pds.us" tvg-name="NCAA Football 001" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 001
+http://DummyLink.NCAAF001.tv
+#EXTINF:-1 CUID="1a867fd3-d8b6-3e37-b3ac-424694261130" tvg-chno="126" tvg-id="NCAAF002.pds.us" tvg-name="NCAA Football 002" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 002
+http://DummyLink.NCAAF002.tv
+#EXTINF:-1 CUID="dffcab4e-510e-3a1e-9d0d-0b87773936ba" tvg-chno="127" tvg-id="NCAAF003.pds.us" tvg-name="NCAA Football 003" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 003
+http://DummyLink.NCAAF003.tv
+#EXTINF:-1 CUID="1068b4d9-d243-38d6-b5e3-1f8806445ca1" tvg-chno="128" tvg-id="NCAAF004.pds.us" tvg-name="NCAA Football 004" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 004
+http://DummyLink.NCAAF004.tv
+#EXTINF:-1 CUID="910dd4b5-d5bb-3ea7-8615-7f677d4d7561" tvg-chno="129" tvg-id="NCAAF005.pds.us" tvg-name="NCAA Football 005" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 005
+http://DummyLink.NCAAF005.tv
+#EXTINF:-1 CUID="19c4242b-c15a-3e8a-8006-5dfd9a2ffb62" tvg-chno="130" tvg-id="NCAAF006.pds.us" tvg-name="NCAA Football 006" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 006
+http://DummyLink.NCAAF006.tv
+#EXTINF:-1 CUID="06f3e9ae-7608-3568-83bb-715caab47227" tvg-chno="131" tvg-id="NCAAF007.pds.us" tvg-name="NCAA Football 007" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 007
+http://DummyLink.NCAAF007.tv
+#EXTINF:-1 CUID="6c2287f0-7be1-39e2-9efd-2ef8d64c9763" tvg-chno="132" tvg-id="NCAAF008.pds.us" tvg-name="NCAA Football 008" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 008
+http://DummyLink.NCAAF008.tv
+#EXTINF:-1 CUID="39224425-97eb-372c-a044-d847b7f36a3d" tvg-chno="133" tvg-id="NCAAF009.pds.us" tvg-name="NCAA Football 009" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 009
+http://DummyLink.NCAAF009.tv
+#EXTINF:-1 CUID="d695592e-d230-3b20-bc5b-d1e55d9c3947" tvg-chno="134" tvg-id="NCAAF010.pds.us" tvg-name="NCAA Football 010" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAF",NCAA Football 010
+http://DummyLink.NCAAF010.tv
+#EXTINF:-1 CUID="f22a5dc5-abee-3c99-b0b8-3b79622839c0" tvg-chno="135" tvg-id="NCAAFV2001.pds.us" tvg-name="NCAA Football 001" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 001
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9196
+#EXTINF:-1 CUID="9eb838f7-bda7-3547-b5ad-5806b6f93724" tvg-chno="136" tvg-id="NCAAFV2002.pds.us" tvg-name="NCAA Football 002" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 002
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9197
+#EXTINF:-1 CUID="cab22c03-43ac-3736-a96b-782e5e5e8a87" tvg-chno="137" tvg-id="NCAAFV2003.pds.us" tvg-name="NCAA Football 003" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 003
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9190
+#EXTINF:-1 CUID="e3c88266-4f5a-3b21-8993-83a21aae5243" tvg-chno="138" tvg-id="NCAAFV2004.pds.us" tvg-name="NCAA Football 004" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 004
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9191
+#EXTINF:-1 CUID="b2c24ef9-4816-3493-8597-6b16a414a190" tvg-chno="139" tvg-id="NCAAFV2005.pds.us" tvg-name="NCAA Football 005" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 005
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9192
+#EXTINF:-1 CUID="ac56a018-f41a-35b2-b3e0-f59c94109615" tvg-chno="140" tvg-id="NCAAFV2006.pds.us" tvg-name="NCAA Football 006" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 006
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9193
+#EXTINF:-1 CUID="5fd46e3a-7932-3fe4-b539-f707d68d892e" tvg-chno="141" tvg-id="NCAAFV2007.pds.us" tvg-name="NCAA Football 007" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 007
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9194
+#EXTINF:-1 CUID="7c0256fd-ad27-341a-b6a5-a927d5dd4db2" tvg-chno="142" tvg-id="NCAAFV2008.pds.us" tvg-name="NCAA Football 008" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 008
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9195
+#EXTINF:-1 CUID="0b1d21f9-bd5e-3026-9e18-dd40b04398cf" tvg-chno="143" tvg-id="NCAAF009.pds.us2" tvg-name="NCAA Football 009" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 009
+http://DummyLink.NCAAFV2009.tv
+#EXTINF:-1 CUID="825d260f-67f0-3e21-b379-a5094c903c41" tvg-chno="144" tvg-id="NCAAFV2010.pds.us" tvg-name="NCAA Football 010" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NCAAF.png" group-title="PDSportsNCAAFV2",NCAA Football 010
+http://DummyLink.NCAAFV2010.tv
+#EXTINF:-1 CUID="b9080d11-ac85-3cb5-b001-fdc18aaf8199" tvg-chno="145" tvg-id="ACCNetwork.us" tvg-name="ACC Network US" tvg-logo="https://iptvboss.xyz/logos/USA/ACCNetwork.us.png" group-title="SPORTS - USA",ACC Network US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1231.ts
+#EXTINF:-1 CUID="f6c77719-4f6a-3e61-8aa7-dba1fdb8fd30" tvg-chno="146" tvg-id="ACCNetwork.us2" tvg-name="ACC Network US (Backup)" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/acc-network-us.png" group-title="SPORTS - USA",ACC Network US (Backup)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/13463.ts
+#EXTINF:-1 CUID="0c4095e2-ca23-3d26-8a95-7542f42771fa" tvg-chno="147" tvg-id="BarstoolSports.us" tvg-name="Barstool Sports" tvg-logo="https://iptvboss.xyz/logos/USA/BarstoolSports.us.png" group-title="SPORTS - USA",Barstool Sports
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11258.ts
+#EXTINF:-1 CUID="4460d6fe-81cc-3318-95c1-ad9948a7dce7" tvg-chno="148" tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network US" tvg-logo="https://iptvboss.xyz/logos/USA/CBSSportsNetwork.us.png" group-title="SPORTS - USA",CBS Sports Network US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1427.ts
+#EXTINF:-1 CUID="14abb70c-8e4e-3fa6-a77a-f73a77cecd22" tvg-chno="149" tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://iptvboss.xyz/logos/USA/ESPN2.us.png" group-title="SPORTS - USA",ESPN 2 US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1503.ts
+#EXTINF:-1 CUID="f2ef5428-1106-3b86-95d7-24861fdffa71" tvg-chno="150" tvg-id="ESPN.us1" tvg-name="ESPN US" tvg-logo="https://iptvboss.xyz/logos/USA/ESPN.us.png" group-title="SPORTS - USA",ESPN US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11166.ts
+#EXTINF:-1 CUID="72e8572a-7c09-35df-92f6-4acde8ca80be" tvg-chno="151" tvg-id="ESPNEWS.us" tvg-name="ESPNews US" tvg-logo="https://iptvboss.xyz/logos/USA/ESPNEWS.us.png" group-title="SPORTS - USA",ESPNews US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1504.ts
+#EXTINF:-1 CUID="ff3a94fa-d780-34fa-8615-b4b3362b30af" tvg-chno="152" tvg-id="ESPNU.us" tvg-name="ESPNU US" tvg-logo="https://iptvboss.xyz/logos/USA/ESPNU.us.png" group-title="SPORTS - USA",ESPNU US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1505.ts
+#EXTINF:-1 CUID="9cff9dd0-9298-3664-adb2-cd7a5c675eab" tvg-chno="153" tvg-id="FoxSports1.us1" tvg-name="Fox Sports 1 US" tvg-logo="https://iptvboss.xyz/logos/USA/FoxSports1.us.png" group-title="SPORTS - USA",Fox Sports 1 US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1584.ts
+#EXTINF:-1 CUID="7c4b6367-5e7a-3c4a-b2a9-3737aa9c1bed" tvg-chno="154" tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1 US (Backup)" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/fox-sports-1-us.png" group-title="SPORTS - USA",FOX Sports 1 US (Backup)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/13468.ts
+#EXTINF:-1 CUID="05f29062-64b5-3641-b114-4ed921e396b1" tvg-chno="155" tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 US" tvg-logo="https://iptvboss.xyz/logos/USA/FoxSports2.us.png" group-title="SPORTS - USA",Fox Sports 2 US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1585.ts
+#EXTINF:-1 CUID="1cc196eb-116e-3df8-a211-30e7df465b25" tvg-chno="156" tvg-id="GolfChannel.us" tvg-name="Golf Channel US" tvg-logo="https://iptvboss.xyz/logos/USA/GolfChannel.us.png" group-title="SPORTS - USA",Golf Channel US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1627.ts
+#EXTINF:-1 CUID="234dd1c0-619e-3584-ad40-cd0cd64f6036" tvg-chno="157" tvg-id="MSGZone1.us" tvg-name="MSG" tvg-logo="https://iptvboss.xyz/logos/USA/MSG.us.png" group-title="SPORTS - USA",MSG
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4757.ts
+#EXTINF:-1 CUID="b06b329d-c999-39b6-b4f5-dd95dc0e99ef" tvg-chno="158" tvg-id="MSG2.us" tvg-name="MSG 2" tvg-logo="https://iptvboss.xyz/logos/USA/MSG2.us.png" group-title="SPORTS - USA",MSG 2
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4759.ts
+#EXTINF:-1 CUID="a7157058-b25d-38c7-9acf-77200563723b" tvg-chno="159" tvg-id="MSGSN.us" tvg-name="MSG SN" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MSGSN.us.png" group-title="SPORTS - USA",MSG SN
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4758
+#EXTINF:-1 CUID="4cac3ed7-b110-3cdb-acdb-32c05c6c52b8" tvg-chno="160" tvg-id="MSGSN2.us" tvg-name="MSG SN 2" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MSGSN2.us.png" group-title="SPORTS - USA",MSG SN 2
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/4760
+#EXTINF:-1 CUID="d121560a-2ccc-3676-9607-e73b1ed4a107" tvg-chno="161" tvg-id="MSGZone3.us" tvg-name="MSG Western New York" tvg-logo="https://i.ibb.co/B3w5smh/MSG-Western-New-York-logo.png" group-title="SPORTS - USA",MSG Western New York
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/13060.ts
+#EXTINF:-1 CUID="f6a330dd-ddc9-3858-9996-d548cd1eaadc" tvg-chno="162" tvg-id="NBCSportsonPeacock.peacocktv" tvg-name="NBC Sports Network" tvg-logo="" group-title="SPORTS - USA",NBC Sports Network
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/12941.ts
+#EXTINF:-1 CUID="07e7554e-17e7-31c7-bff7-05315a8005d2" tvg-chno="163" tvg-id="NESN.us" tvg-name="NESN" tvg-logo="https://iptvboss.xyz/logos/USA/NESN.us.png" group-title="SPORTS - USA",NESN
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/6082.ts
+#EXTINF:-1 CUID="2fea0382-b93f-39c1-b190-5aaf949933dc" tvg-chno="164" tvg-id="NESNplus.us" tvg-name="NESN Plus" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NESNplus.us.png" group-title="SPORTS - USA",NESN Plus
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/6083
+#EXTINF:-1 CUID="b15d2770-d2f6-3d10-a10c-66f6f395fb2f" tvg-chno="165" tvg-id="NFLNetwork.us" tvg-name="NFL Network US" tvg-logo="https://iptvboss.xyz/logos/USA/NFLNetwork.us.png" group-title="SPORTS - USA",NFL Network US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11154.ts
+#EXTINF:-1 CUID="4474c726-b069-3a1f-aba8-82d6e85ed9d2" tvg-chno="166" tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://iptvboss.xyz/logos/USA/SECNetwork.us.png" group-title="SPORTS - USA",SEC Network
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4300.ts
+#EXTINF:-1 CUID="aa98d54d-8cce-3431-ba17-9e0d77da0b85" tvg-chno="167" tvg-id="YesNetwork.us" tvg-name="Yes Network" tvg-logo="https://iptvboss.xyz/logos/USA/YesNetwork.us.png" group-title="SPORTS - USA",Yes Network
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4551.ts
+#EXTINF:-1 CUID="7fe0e92c-bf42-3d62-811f-661b816028d3" tvg-chno="168" tvg-id="Sportsnet360.ca" tvg-name="Sportsnet 360 (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/Sportsnet360.ca.png" group-title="SPORTS - CANADA",Sportsnet 360 (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11396.ts
+#EXTINF:-1 CUID="b6418edc-f2a5-3d6a-bf8f-32f53ff5e10f" tvg-chno="169" tvg-id="Sportsnet360.ca2" tvg-name="Sportsnet 360" tvg-logo="https://iptvboss.xyz/logos/Canada/Sportsnet360.ca.png" group-title="SPORTS - CANADA",Sportsnet 360
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11160.ts
+#EXTINF:-1 CUID="4291447e-7468-37c4-845b-4aa9654cc563" tvg-chno="170" tvg-id="SportsnetEast.ca" tvg-name="Sportsnet East (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetEast.ca.png" group-title="SPORTS - CANADA",Sportsnet East (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11400.ts
+#EXTINF:-1 CUID="6dfd2eec-289c-3172-b949-6335efaca02e" tvg-chno="171" tvg-id="SportsnetEast.ca2" tvg-name="Sportsnet East" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetEast.ca.png" group-title="SPORTS - CANADA",Sportsnet East
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11159.ts
+#EXTINF:-1 CUID="d6c2c2d2-9718-38da-b0fb-e73da5e0c0bf" tvg-chno="172" tvg-id="SportsnetOne.ca" tvg-name="Sportsnet One (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOne.ca.png" group-title="SPORTS - CANADA",Sportsnet One (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11397.ts
+#EXTINF:-1 CUID="5ad8f749-9812-3ba4-ae36-f542bed0b4b0" tvg-chno="173" tvg-id="SportsnetOne.ca2" tvg-name="Sportsnet ONE" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOne.ca.png" group-title="SPORTS - CANADA",Sportsnet ONE
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11158.ts
+#EXTINF:-1 CUID="d5454e4c-0d88-3ef9-9287-be70ab2f46d4" tvg-chno="174" tvg-id="SportsnetOntario.ca" tvg-name="Sportsnet Ontario (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOntario.ca.png" group-title="SPORTS - CANADA",Sportsnet Ontario (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11398.ts
+#EXTINF:-1 CUID="d8db50c7-58ad-3ade-a8bc-610f7b05d8e0" tvg-chno="175" tvg-id="SportsnetOntario.ca2" tvg-name="Sportsnet Ontario" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOntario.ca.png" group-title="SPORTS - CANADA",Sportsnet Ontario
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11157.ts
+#EXTINF:-1 CUID="4429a6d8-df0c-36f9-864d-f001ce31c8b6" tvg-chno="176" tvg-id="SportsnetPacific.ca" tvg-name="Sportsnet Pacific (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetPacific.ca.png" group-title="SPORTS - CANADA",Sportsnet Pacific (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11399.ts
+#EXTINF:-1 CUID="7f86765c-0a98-30d1-9a97-27e6ef2efd65" tvg-chno="177" tvg-id="SportsnetPacific.ca2" tvg-name="Sportsnet Pacific" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetPacific.ca.png" group-title="SPORTS - CANADA",Sportsnet Pacific
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11155.ts
+#EXTINF:-1 CUID="b5ddbce4-26b8-357d-930d-6470e6af1951" tvg-chno="178" tvg-id="SportsnetWest.ca" tvg-name="Sportsnet West (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetWest.ca.png" group-title="SPORTS - CANADA",Sportsnet West (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11401.ts
+#EXTINF:-1 CUID="7eb99a08-2f43-3bbe-8c8f-300dc22ae55e" tvg-chno="179" tvg-id="SportsnetWest.ca2" tvg-name="Sportsnet West" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetWest.ca.png" group-title="SPORTS - CANADA",Sportsnet West
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11156.ts
+#EXTINF:-1 CUID="685d13a5-f067-37b9-a5ee-2e83ec2e95c9" tvg-chno="180" tvg-id="SportsNetWorld1.ca" tvg-name="Sportsnet World (1080)" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/canada/sportsnet-snworld-ca.png" group-title="SPORTS - CANADA",Sportsnet World (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11844.ts
+#EXTINF:-1 CUID="75927a32-5701-37ca-a2e0-c794aed373f8" tvg-chno="181" tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="SPORTS - CANADA",TSN 1
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11148.ts
+#EXTINF:-1 CUID="3258783f-690a-3919-83bd-f746ea90467d" tvg-chno="182" tvg-id="TSN1.ca2" tvg-name="TSN 1 (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="SPORTS - CANADA",TSN 1 (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11403.ts
+#EXTINF:-1 CUID="f464412c-7e6c-33c3-b659-cacb342f898f" tvg-chno="183" tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="SPORTS - CANADA",TSN 2
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11149.ts
+#EXTINF:-1 CUID="325f638f-5f4e-3554-8ce1-d5e353a142e4" tvg-chno="184" tvg-id="TSN2.ca2" tvg-name="TSN 2 (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="SPORTS - CANADA",TSN 2 (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11402.ts
+#EXTINF:-1 CUID="de2e0fa4-48bc-37ab-a125-4d5257b0dce1" tvg-chno="185" tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN3.ca.png" group-title="SPORTS - CANADA",TSN 3
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11150.ts
+#EXTINF:-1 CUID="622bc3fb-01ae-32df-8866-2a9f3fa190b1" tvg-chno="186" tvg-id="TSN3.ca2" tvg-name="TSN 3 (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN3.ca.png" group-title="SPORTS - CANADA",TSN 3 (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11404.ts
+#EXTINF:-1 CUID="12ebb6b7-0d71-365a-b6cd-74131df4930d" tvg-chno="187" tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="SPORTS - CANADA",TSN 4
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11151.ts
+#EXTINF:-1 CUID="be3dccc3-32ed-3e92-9df5-872a1f4ddf2d" tvg-chno="188" tvg-id="TSN4.ca2" tvg-name="TSN 4 (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="SPORTS - CANADA",TSN 4 (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11405.ts
+#EXTINF:-1 CUID="73a1b4e6-c2be-3faf-a430-c7e94cd62e6d" tvg-chno="189" tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="SPORTS - CANADA",TSN 5
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11152.ts
+#EXTINF:-1 CUID="d3931f90-ed15-3c9f-a701-8610053b756f" tvg-chno="190" tvg-id="TSN5.ca2" tvg-name="TSN 5 (1080)" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="SPORTS - CANADA",TSN 5 (1080)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/11406.ts
+#EXTINF:-1 CUID="71020c41-3403-37c1-b3ff-ff6eac5eb1b8" tvg-chno="191" tvg-id="NBACharlotteHornets.pds.us" tvg-name="Charlotte Hornets" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CharlotteHornets.nba.png" group-title="PDSportsNBATeams",Charlotte Hornets
+http://DummyLink.NBATeamsCharlotteHornets.tv
+#EXTINF:-1 CUID="a8b92d44-e271-3efb-a356-96632f408a24" tvg-chno="192" tvg-id="NBAClevelandCavaliers.pds.us" tvg-name="Cleveland Cavaliers" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ClevelandCavaliers.nba.png" group-title="PDSportsNBATeams",Cleveland Cavaliers
+http://DummyLink.NBATeamsClevelandCavaliers.tv
+#EXTINF:-1 CUID="0d00e6ee-ea7c-31fa-9889-62f01df59ed4" tvg-chno="193" tvg-id="NBALosAngelesClippers.pds.us" tvg-name="Los Angeles Clippers" tvg-logo="https://cdn.iptvboss.pro/logos/USA/LosAngelesClippers.nba.png" group-title="PDSportsNBATeams",Los Angeles Clippers
+http://DummyLink.NBATeamsLosAngelesClippers.tv
+#EXTINF:-1 CUID="943b5a8b-88b1-359d-bbc9-3b1481d2a2aa" tvg-chno="194" tvg-id="NBA01.pds.us" tvg-name="NBA 01" tvg-logo="http://192.168.50.42:1180/logos/PDS_Raptors-Rockets.png" group-title="PDSportsNBAGames",NBA 01
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9658
+#EXTINF:-1 CUID="8bbff166-f3dd-38c8-93ae-9bfeece9ab1e" tvg-chno="195" tvg-id="NBA02.pds.us" tvg-name="NBA 02" tvg-logo="http://192.168.50.42:1180/logos/PDS_Kings-Pacers.png" group-title="PDSportsNBAGames",NBA 02
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9659
+#EXTINF:-1 CUID="d7ac8881-d42b-32cf-8db8-91182ee7f002" tvg-chno="196" tvg-id="NBA03.pds.us" tvg-name="NBA 03" tvg-logo="http://192.168.50.42:1180/logos/PDS_Pelicans-Nuggets.png" group-title="PDSportsNBAGames",NBA 03
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/9660
+#EXTINF:-1 CUID="e7876c6f-8f52-3599-a48d-38a0ea1e34ed" tvg-chno="197" tvg-id="NBA04.pds.us" tvg-name="NBA 04" tvg-logo="http://192.168.50.42:1180/logos/PDS_Kings-Pacers.png" group-title="PDSportsNBAGames",NBA 04
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/10006
+#EXTINF:-1 CUID="eeddf53e-3ded-3fdd-a963-17d08726ca2b" tvg-chno="198" tvg-id="NBA05.pds.us" tvg-name="NBA 05" tvg-logo="http://192.168.50.42:1180/logos/PDS_Raptors-Rockets.png" group-title="PDSportsNBAGames",NBA 05
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/10007
+#EXTINF:-1 CUID="c53ecf49-a6cb-3d4c-bffc-adf0b209af5b" tvg-chno="199" tvg-id="NBA06.pds.us" tvg-name="NBA 06" tvg-logo="http://192.168.50.42:1180/logos/PDS_Pelicans-Nuggets.png" group-title="PDSportsNBAGames",NBA 06
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/10008
+#EXTINF:-1 CUID="a550ab74-eb56-3123-b1dc-9b2a7fbadf45" tvg-chno="200" tvg-id="NBA07.pds.us" tvg-name="NBA 07" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBA01.v3.png" group-title="PDSportsNBAGames",NBA 07
+http://DummyLink.nbaGames07.tv
+#EXTINF:-1 CUID="b40f5c64-bb7c-3b0f-998d-f7080eed4b58" tvg-chno="201" tvg-id="NBA08.pds.us" tvg-name="NBA 08" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBA01.v3.png" group-title="PDSportsNBAGames",NBA 08
+http://DummyLink.nbaGames08.tv
+#EXTINF:-1 CUID="fe46dd05-d7e7-32dd-9171-ebdd9a855fa8" tvg-chno="202" tvg-id="NBA09.pds.us" tvg-name="NBA 09" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBA01.v3.png" group-title="PDSportsNBAGames",NBA 09
+http://DummyLink.nbaGames09.tv
+#EXTINF:-1 CUID="b473eff4-16ec-36d6-a022-aeb5b737e9ff" tvg-chno="203" tvg-id="NBA10.pds.us" tvg-name="NBA 10" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBA01.v3.png" group-title="PDSportsNBAGames",NBA 10
+http://DummyLink.nbaGames10.tv
+#EXTINF:-1 CUID="58763ee5-cb72-3591-a16b-555a191fc0c4" tvg-chno="204" tvg-id="GolfPass.peacocktv" tvg-name="Peacock: Golf Pass" tvg-logo="https://iptvboss.xyz/logos/USA/GolfPass.peacocktv.png" group-title="NBC PEACOCK",Peacock: Golf Pass
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/10170.ts
+#EXTINF:-1 CUID="93394003-8ddb-35b5-a547-723817baaa40" tvg-chno="205" tvg-id="EPLTeamsChelsea.pds.us" tvg-name="Chelsea" tvg-logo="https://cdn.iptvboss.pro/logos/UK/Chelsea.epl.png" group-title="PDSportsEPLTeams",Chelsea
+http://DummyLink.EPLTeamsChelsea.tv
+#EXTINF:-1 CUID="c5c2f0c1-8a38-3a81-9805-d8dfd0574ee1" tvg-chno="206" tvg-id="EPLTeamsManchesterCity.pds.us" tvg-name="Manchester City" tvg-logo="https://cdn.iptvboss.pro/logos/UK/ManchesterCity.epl.png" group-title="PDSportsEPLTeams",Manchester City
+http://DummyLink.EPLTeamsManchesterCity.tv
+#EXTINF:-1 CUID="1822f138-1f8f-3336-85ec-e80489ff09ed" tvg-chno="207" tvg-id="EPLTeamsManchesterUnited.pds.us" tvg-name="Manchester United" tvg-logo="https://cdn.iptvboss.pro/logos/UK/ManchesterUnited.epl.png" group-title="PDSportsEPLTeams",Manchester United
+http://DummyLink.EPLTeamsManchesterUnited.tv
+#EXTINF:-1 CUID="1af8379e-cf3a-3dfe-83af-33479f1aa25c" tvg-chno="208" tvg-id="EPLTeamsTottenhamHotspur.pds.us" tvg-name="Tottenham Hotspur" tvg-logo="https://cdn.iptvboss.pro/logos/UK/TottenhamHotspur.epl.png" group-title="PDSportsEPLTeams",Tottenham Hotspur
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/8040
+#EXTINF:-1 CUID="adb3370a-03a5-38fd-8a45-70fa3c1c5013" tvg-chno="209" tvg-id="F1TV.pds.us" tvg-name="F1TV Main Race" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/F1tv.png" group-title="Formula 1",F1TV Main Race
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11922
+#EXTINF:-1 CUID="847988b8-e949-39bf-8b21-33bc6637c4e2" tvg-chno="210" tvg-id="SkySportsF1UHD.uk" tvg-name="Formula 1 Sky Sports" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsF1UHD.uk.png" group-title="Formula 1",Formula 1 Sky Sports
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11924
+#EXTINF:-1 CUID="78527124-b315-33b2-91b7-e543c9ee10a5" tvg-chno="211" tvg-id="F1TV.pds.us2" tvg-name="F1TV Carlos Sainz (Spain)" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/F1tv.png" group-title="Formula 1",F1TV Carlos Sainz (Spain)
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11902
+#EXTINF:-1 CUID="1870bb4d-d257-310a-a44d-b33326e63b2a" tvg-chno="212" tvg-id="F1TV.pds.us3" tvg-name="F1TV Charles Leclerc (Monaco)" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/F1tv.png" group-title="Formula 1",F1TV Charles Leclerc (Monaco)
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11903
+#EXTINF:-1 CUID="757a325c-e625-3bb7-aae8-81e6ed632c83" tvg-chno="213" tvg-id="F1TV.pds.us4" tvg-name="F1TV Max Verstappen (Netherlands)" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/F1tv.png" group-title="Formula 1",F1TV Max Verstappen (Netherlands)
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/11913
+#EXTINF:-1 CUID="0fb935ce-ba67-37ff-aeaa-ab64b54d642f" tvg-chno="214" tvg-id="MLSCharlotteFC.pds.us" tvg-name="Charlotte FC" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CharlotteFC.mls.png" group-title="PDSportsMLSTeams",Charlotte FC
+http://DummyLink.mlsCharlotteFC.PDSports.tv
+#EXTINF:-1 CUID="15663026-d84a-3d58-89bb-57a96c53a69e" tvg-chno="215" tvg-id="MLSInterMiamiCF.pds.us" tvg-name="Inter Miami CF" tvg-logo="https://cdn.iptvboss.pro/logos/USA/InterMiamiCF.mls.png" group-title="PDSportsMLSTeams",Inter Miami CF
+http://DummyLink.mlsInterMiamiCF.PDSports.tv
+#EXTINF:-1 CUID="34910546-089a-324f-9e39-a8334a4d1580" tvg-chno="216" tvg-id="MLSGames001.pds.us" tvg-name="MLS Games 001" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MLS.png" group-title="PDSportsMLSGames",MLS Games 001
+http://DummyLink.MLSGames001.tv
+#EXTINF:-1 CUID="049adf74-ff6c-353f-8450-b3277956bb79" tvg-chno="217" tvg-id="MLSGames002.pds.us" tvg-name="MLS Games 002" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MLS.png" group-title="PDSportsMLSGames",MLS Games 002
+http://DummyLink.MLSGames002.tv
+#EXTINF:-1 CUID="b58bf93f-4b61-3b11-9fa4-4677358dd49c" tvg-chno="218" tvg-id="MLSGames003.pds.us" tvg-name="MLS Games 003" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MLS.png" group-title="PDSportsMLSGames",MLS Games 003
+http://DummyLink.MLSGames003.tv
+#EXTINF:-1 CUID="230c4cd8-cb14-317a-8fc2-b365f57f3995" tvg-chno="219" tvg-id="MLSGames004.pds.us" tvg-name="MLS Games 004" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MLS.png" group-title="PDSportsMLSGames",MLS Games 004
+http://DummyLink.MLSGames004.tv
+#EXTINF:-1 CUID="76d3425e-b98b-341c-92ec-942983b15115" tvg-chno="220" tvg-id="MLSGames005.pds.us" tvg-name="MLS Games 005" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MLS.png" group-title="PDSportsMLSGames",MLS Games 005
+http://DummyLink.MLSGames005.tv
+#EXTINF:-1 CUID="bf7963c0-d56c-3b08-b343-44a3f794aec5" tvg-chno="221" tvg-id="ESPN1.ESPN" tvg-name="ESPNPlus 001" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 001
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5584
+#EXTINF:-1 CUID="b55877cd-d1c8-3937-85de-d552fc361049" tvg-chno="222" tvg-id="ESPNPlus002.pds.us" tvg-name="ESPNPlus 002" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 002
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5592
+#EXTINF:-1 CUID="eb2c301a-e4b9-31ab-90d1-12f1f2f2f25c" tvg-chno="223" tvg-id="ESPNPlus003.pds.us" tvg-name="ESPNPlus 003" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 003
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5600
+#EXTINF:-1 CUID="f6c24d56-57a5-3a19-89a8-144af5aeba21" tvg-chno="224" tvg-id="ESPNPlus004.pds.us" tvg-name="ESPNPlus 004" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 004
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5556
+#EXTINF:-1 CUID="1a8a44e8-0cf0-3afa-9bb1-a74878c5e4e0" tvg-chno="225" tvg-id="ESPNPlus005.pds.us" tvg-name="ESPNPlus 005" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 005
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5557
+#EXTINF:-1 CUID="3cce4dd8-59b5-35ca-8858-8f447ac41427" tvg-chno="226" tvg-id="ESPNPlus006.pds.us" tvg-name="ESPNPlus 006" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 006
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5558
+#EXTINF:-1 CUID="e89201b9-0fef-3856-a0a7-bbd2d2c94f23" tvg-chno="227" tvg-id="ESPNPlus007.pds.us" tvg-name="ESPNPlus 007" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 007
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5559
+#EXTINF:-1 CUID="cfd50cfa-cdcc-3734-853d-813abaca9f7a" tvg-chno="228" tvg-id="ESPNPlus008.pds.us" tvg-name="ESPNPlus 008" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 008
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5560
+#EXTINF:-1 CUID="3bf20708-ec3c-35e1-8e95-f72faf19a217" tvg-chno="229" tvg-id="ESPNPlus009.pds.us" tvg-name="ESPNPlus 009" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 009
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5561
+#EXTINF:-1 CUID="0409ea20-cbeb-3cab-8a81-388cccf45d0e" tvg-chno="230" tvg-id="ESPNPlus010.pds.us" tvg-name="ESPNPlus 010" tvg-logo="http://www.picassosrocks.com/_resources/common/userfiles/image/ESPN%20PLUS%20LOGO%203.jpg" group-title="PDSportsESPNPlus",ESPNPlus 010
+http://j.jserv.me:80/CodeMonkey/dCheFMNQnF/5562
+#EXTINF:-1 CUID="208c3235-10d3-3daf-9431-dc4e8d62887b" tvg-chno="231" tvg-id="ActionMAX.us" tvg-name="ActionMax US" tvg-logo="https://iptvboss.xyz/logos/USA/ActionMAX.us.png" group-title="PREMIUM MOVIE CHANNELS",ActionMax US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1232.ts
+#EXTINF:-1 CUID="c7f85eb7-1c04-3d79-b961-63e94979e22c" tvg-chno="232" tvg-id="CineMAX.us" tvg-name="Cinemax US" tvg-logo="https://iptvboss.xyz/logos/USA/CineMAX.us.png" group-title="PREMIUM MOVIE CHANNELS",Cinemax US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1430.ts
+#EXTINF:-1 CUID="655e17f9-d8fa-3dae-ac37-3e7bf48b2c73" tvg-chno="233" tvg-id="CineMAXPacific.us" tvg-name="Cinemax West US" tvg-logo="https://iptvboss.xyz/logos/USA/CineMAXPacific.us.png" group-title="PREMIUM MOVIE CHANNELS",Cinemax West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1431.ts
+#EXTINF:-1 CUID="89292140-d42d-3945-89c1-66f7f94562bd" tvg-chno="234" tvg-id="Crave1.ca" tvg-name="Crave 1" tvg-logo="https://iptvboss.xyz/logos/Canada/Crave1.ca.png" group-title="PREMIUM MOVIE CHANNELS",Crave 1
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/6530.ts
+#EXTINF:-1 CUID="24624fdb-577d-3de9-8412-93314effcd82" tvg-chno="235" tvg-id="Crave2.ca" tvg-name="Crave 2" tvg-logo="https://iptvboss.xyz/logos/Canada/Crave2.ca.png" group-title="PREMIUM MOVIE CHANNELS",Crave 2
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/6531.ts
+#EXTINF:-1 CUID="7a0849de-1bd5-3454-8e4f-f61a944024aa" tvg-chno="236" tvg-id="Crave3.ca" tvg-name="Crave 3" tvg-logo="https://iptvboss.xyz/logos/Canada/Crave3.ca.png" group-title="PREMIUM MOVIE CHANNELS",Crave 3
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/6532.ts
+#EXTINF:-1 CUID="62e09f6f-2da5-3e4a-808b-0dc138a9142e" tvg-chno="237" tvg-id="Crave4.ca" tvg-name="Crave 4" tvg-logo="https://iptvboss.xyz/logos/Canada/Crave4.ca.png" group-title="PREMIUM MOVIE CHANNELS",Crave 4
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/8469.ts
+#EXTINF:-1 CUID="69a4cf70-f38d-3002-a64a-317cbd6cc763" tvg-chno="238" tvg-id="HBO.us1" tvg-name="HBO" tvg-logo="https://iptvboss.xyz/logos/USA/HBO.us.png" group-title="PREMIUM MOVIE CHANNELS",HBO
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4370.ts
+#EXTINF:-1 CUID="8af0ec2f-f606-3241-b1a1-5172e07b9663" tvg-chno="239" tvg-id="HBO1.ca" tvg-name="HBO 1 (Canada)" tvg-logo="https://iptvboss.xyz/logos/Canada/HBO1.ca.png" group-title="PREMIUM MOVIE CHANNELS",HBO 1 (Canada)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/6528.ts
+#EXTINF:-1 CUID="51d1685e-eb1d-33c8-8210-84131aa501fa" tvg-chno="240" tvg-id="HBO2.us" tvg-name="HBO 2" tvg-logo="https://iptvboss.xyz/logos/USA/HBO2.us.png" group-title="PREMIUM MOVIE CHANNELS",HBO 2
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4371.ts
+#EXTINF:-1 CUID="86ea05c6-018a-36b3-a8e6-790fda5371b4" tvg-chno="241" tvg-id="HBO2.ca" tvg-name="HBO 2 (Canada)" tvg-logo="https://iptvboss.xyz/logos/Canada/HBO2.ca.png" group-title="PREMIUM MOVIE CHANNELS",HBO 2 (Canada)
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/6529.ts
+#EXTINF:-1 CUID="d107516e-0dcd-3249-b10e-9a7b04994e38" tvg-chno="242" tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="https://iptvboss.xyz/logos/USA/HBOSignature.us.png" group-title="PREMIUM MOVIE CHANNELS",HBO Signature
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/4373.ts
+#EXTINF:-1 CUID="7dda6ab3-9664-3c43-a176-0fcd598ec8d1" tvg-chno="243" tvg-id="MoreMax.us" tvg-name="MoreMax US" tvg-logo="https://iptvboss.xyz/logos/USA/MoreMax.us.png" group-title="PREMIUM MOVIE CHANNELS",MoreMax US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2023.ts
+#EXTINF:-1 CUID="dad2de7b-1fcb-3c4f-a79c-2e8ac635fc4e" tvg-chno="244" tvg-id="MoreMAXPacific.us" tvg-name="MoreMax West US" tvg-logo="https://iptvboss.xyz/logos/USA/MoreMAXPacific.us.png" group-title="PREMIUM MOVIE CHANNELS",MoreMax West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2024.ts
+#EXTINF:-1 CUID="5c37e79e-e498-318d-afda-b62619d64614" tvg-chno="245" tvg-id="MovieMax.us" tvg-name="MovieMax US" tvg-logo="https://iptvboss.xyz/logos/USA/MovieMax.us.png" group-title="PREMIUM MOVIE CHANNELS",MovieMax US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2027.ts
+#EXTINF:-1 CUID="0adcf06c-4cc0-3978-8b86-92e8b8092e53" tvg-chno="246" tvg-id="Showtime2.us" tvg-name="Showtime 2 US" tvg-logo="https://iptvboss.xyz/logos/USA/Showtime2.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime 2 US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2489.ts
+#EXTINF:-1 CUID="b327bc19-8a7c-366b-b654-b83502947a96" tvg-chno="247" tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeExtreme.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Extreme US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2491.ts
+#EXTINF:-1 CUID="b0a18823-639e-3aa2-8201-72a8f953b2af" tvg-chno="248" tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeExtremePacific.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Extreme West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2492.ts
+#EXTINF:-1 CUID="a83e06f3-da0a-3721-a254-a27aa858f7bf" tvg-chno="249" tvg-id="ShowtimeFamilyzonePacific.us" tvg-name="Showtime Family Zone West US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeFamilyzonePacific.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Family Zone West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2494.ts
+#EXTINF:-1 CUID="bce57965-2c49-364c-b6ee-5c4fea1fd620" tvg-chno="250" tvg-id="ShowtimeNext.us" tvg-name="Showtime Next US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeNext.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Next US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2495.ts
+#EXTINF:-1 CUID="7e573d3e-bc8a-357e-9e18-1128e8b2928b" tvg-chno="251" tvg-id="ShowtimeShowcase.us" tvg-name="Showtime Showcase US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeShowcase.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Showcase US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2497.ts
+#EXTINF:-1 CUID="3df0e7b1-487e-3c01-ae90-4a2996262fc1" tvg-chno="252" tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeShowcasePacific.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Showcase West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2498.ts
+#EXTINF:-1 CUID="fc9ec70f-ce7e-324a-9bf9-e4dab4db7391" tvg-chno="253" tvg-id="Paramount+withShowtime.us" tvg-name="Showtime US" tvg-logo="https://iptvboss.xyz/logos/USA/Showtime.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2499.ts
+#EXTINF:-1 CUID="c78c79ba-f54c-37a3-9645-c41837101f2d" tvg-chno="254" tvg-id="ShowtimeNext.us2" tvg-name="Showtime West US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimePacific.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2500.ts
+#EXTINF:-1 CUID="4d0be13c-7e92-3a71-9579-de03e9bb7f75" tvg-chno="255" tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeWomen.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Women US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2501.ts
+#EXTINF:-1 CUID="c2c9a205-a750-360e-a068-62cbcb5efa4e" tvg-chno="256" tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West US" tvg-logo="https://iptvboss.xyz/logos/USA/ShowtimeWomenPacific.us.png" group-title="PREMIUM MOVIE CHANNELS",Showtime Women West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2502.ts
+#EXTINF:-1 CUID="c1264dd1-bb3c-3940-8ed1-825523aa6238" tvg-chno="257" tvg-id="StarzCinema.us" tvg-name="STARZ Cinema US" tvg-logo="https://iptvboss.xyz/logos/USA/StarzCinema.us.png" group-title="PREMIUM MOVIE CHANNELS",STARZ Cinema US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2516.ts
+#EXTINF:-1 CUID="550fb667-c779-33a2-bb45-eb015a96f3ff" tvg-chno="258" tvg-id="StarzComedy.us" tvg-name="STARZ Comedy US" tvg-logo="https://iptvboss.xyz/logos/USA/StarzComedy.us.png" group-title="PREMIUM MOVIE CHANNELS",STARZ Comedy US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2518.ts
+#EXTINF:-1 CUID="824856eb-ff42-375c-ac92-d0c6b22b9dd6" tvg-chno="259" tvg-id="StarzEncorePacific.us" tvg-name="STARZ Encore West US" tvg-logo="https://iptvboss.xyz/logos/USA/StarzEncorePacific.us.png" group-title="PREMIUM MOVIE CHANNELS",STARZ Encore West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2535.ts
+#EXTINF:-1 CUID="86a1555e-3be7-3d46-ac2f-303797db2210" tvg-chno="260" tvg-id="Starz.us" tvg-name="STARZ US" tvg-logo="https://iptvboss.xyz/logos/USA/Starz.us.png" group-title="PREMIUM MOVIE CHANNELS",STARZ US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2526.ts
+#EXTINF:-1 CUID="3e833713-03ac-39b1-8190-879c8d0f78f7" tvg-chno="261" tvg-id="StarzPacific.us" tvg-name="STARZ West US" tvg-logo="https://iptvboss.xyz/logos/USA/StarzPacific.us.png" group-title="PREMIUM MOVIE CHANNELS",STARZ West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2527.ts
+#EXTINF:-1 CUID="5f3aa431-dc0d-387f-be9f-99c02bff6a45" tvg-chno="262" tvg-id="ThrillerMAX.us" tvg-name="ThrillerMax US" tvg-logo="https://iptvboss.xyz/logos/USA/ThrillerMAX.us.png" group-title="PREMIUM MOVIE CHANNELS",ThrillerMax US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2547.ts
+#EXTINF:-1 CUID="da83bf56-09df-3218-9c7a-911ead3e0d8c" tvg-chno="263" tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMax West US" tvg-logo="https://iptvboss.xyz/logos/USA/ThrillerMAXPacific.us.png" group-title="PREMIUM MOVIE CHANNELS",ThrillerMax West US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/2548.ts
+#EXTINF:-1 CUID="c4db421e-084c-3b0e-805e-d484304bc938" tvg-chno="264" tvg-id="Cinemax5StarMAXPacific.us" tvg-name="5StarMax US" tvg-logo="https://iptvboss.xyz/logos/USA/Cinemax5StarMAXPacific.us.png" group-title="PREMIUM MOVIE CHANNELS",5StarMax US
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/1227.ts
+#EXTINF:-1 CUID="d715e192-de53-35c5-b47a-77719dc47385" tvg-chno="265" tvg-id="STARZ1.ca" tvg-name="STARZ 1 CA" tvg-logo="https://cdn.iptvboss.pro/logos/Canada/STARZ1.ca.png" group-title="PREMIUM MOVIE CHANNELS",STARZ 1 CA
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/12607.ts
+#EXTINF:-1 CUID="6c601052-8a9c-39d6-94a2-36a2f1ffda4e" tvg-chno="266" tvg-id="STARZ2.ca" tvg-name="STARZ 2 CA" tvg-logo="https://cdn.iptvboss.pro/logos/Canada/STARZ2.ca.png" group-title="PREMIUM MOVIE CHANNELS",STARZ 2 CA
+http://j.jserv.me:80/live/CodeMonkey/dCheFMNQnF/12608.ts

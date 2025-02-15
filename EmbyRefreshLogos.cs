@@ -138,9 +138,9 @@ namespace EmbyRefreshLogos
                         ProcessChannelData(item, restClient, false);
                     }
 
-                    if (retryItems.Count == 0)
+                    if (retryItems.Count > 0)
                     {
-                        ConsoleWithLog("Processing channels that were not found in the first pass ...");
+                        ConsoleWithLog($"Processing {retryItems.Count} channels that were not found in the first pass ...");
                         channelData.Clear();
 
                         if (fileName.EndsWith(".m3u"))
@@ -190,11 +190,11 @@ namespace EmbyRefreshLogos
             else
             {
                 if (retry)
-                    ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} in the second pass.");
+                    ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} ({logoUrl}) in the second pass.");
                 else
                 {
 
-                    ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} in the first pass.");
+                    ConsoleWithLog($"EmbyRefreshLogos: Could not find logo for {item.Name} ({logoUrl}) in the first pass.");
                     retryItems.Add(item);
                 }
             }
@@ -217,7 +217,8 @@ namespace EmbyRefreshLogos
 
                 try
                 {
-                    channelData.Add(channelName, logoUrl);
+                    if (!channelData.ContainsKey(channelName))
+                        channelData.Add(channelName, logoUrl);
                 }
                 catch (Exception ex)
                 {
@@ -271,7 +272,8 @@ namespace EmbyRefreshLogos
 
                 try
                 {
-                    channelData.Add(channelName, logoUrl);
+                    if(!channelData.ContainsKey(channelName))
+                        channelData.Add(channelName, logoUrl);
                 }
                 catch (Exception ex)
                 {
