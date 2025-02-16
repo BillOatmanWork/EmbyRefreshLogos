@@ -182,7 +182,7 @@ namespace EmbyRefreshLogos
                 var restResponse2 = restClient.Execute(restRequest2);
 
                 if (!restResponse2.IsSuccessful)
-                    ConsoleWithLog($"Failed to set logo for {item.Name}. Reason: {restResponse2.ErrorException?.Message ?? "Unknown error"}");
+                    ConsoleWithLog($"Failed to set logo for {item.Name} {logoUrl}. Reason: {restResponse2.ErrorException?.Message ?? "Unknown error"}");
                 else
                     logoCountount++;
             }
