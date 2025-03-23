@@ -144,7 +144,11 @@ namespace EmbyRefreshLogos
 
                         if (fileName.EndsWith(".m3u"))
                         {
-                            ReadXmlTv(Path.ChangeExtension(fileName, ".xmltv"));
+                            string xmlfileName = Path.ChangeExtension(fileName, ".xml");
+                            if (File.Exists(xmlfileName))
+                                ReadXmlTv(xmlfileName);
+                            else
+                                ReadXmlTv(Path.ChangeExtension(fileName, ".xmltv"));
                         }
                         else
                         { 
